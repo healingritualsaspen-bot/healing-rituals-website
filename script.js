@@ -48,3 +48,17 @@ if(ritualForm){
   const nextField=document.querySelector('#formNext');
   nextField.value=`${location.origin}${location.pathname.replace(/[^/]*$/,'')}thank-you.html`;
 }
+
+const eventRibbon=document.querySelector('.event-ribbon');
+if(eventRibbon){
+  const eventStart=new Date('2026-09-12T20:00:00Z');
+  const eventEnd=new Date('2026-09-13T00:00:00Z');
+  const now=new Date();
+  if(now>=eventEnd){
+    eventRibbon.remove();
+  }else{
+    const label=eventRibbon.querySelector('span');
+    const hoursUntil=(eventStart-now)/36e5;
+    label.textContent=now>=eventStart?'Today in Aspen':hoursUntil<=24?'Tomorrow in Aspen':'September 12 in Aspen';
+  }
+}

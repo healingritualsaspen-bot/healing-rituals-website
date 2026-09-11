@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Healing Rituals//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:healing-rituals-grove-20260912@healingritualsaspen.com
+DTSTAMP:20260911T180000Z
+DTSTART:20260912T200000Z
+DTEND:20260913T000000Z
+SUMMARY:Healing Rituals at The Grove
+LOCATION:The Grove\, Aspen\, Colorado
+DESCRIPTION:Mini Quantum Clearing Sessions throughout the event and a Vibrational Medicine Activation to close. Come experience a taste of Healing Rituals.
+ORGANIZER;CN=Healing Rituals:mailto:healingritualsaspen@gmail.com
+END:VEVENT
+END:VCALENDAR
