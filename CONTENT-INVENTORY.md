@@ -97,3 +97,54 @@ Research check: 2026-09-16
 - Internal links: parent service page; Explore the Work; related articles named in the article
 - Adds: Sometimes closeness grows not from finding the right answer, but from making enough room for each person’s experience to be heard accurately.
 - Follow-up: Review reader questions and evidence updates before expanding this angle.
+
+
+# Condition-focused expansion — 2026-09-16
+
+## Depression
+- Category URL: https://www.healingritualsaspen.com/conditions/depression-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/gentle-practices-when-depression-drains-motivation.html; https://www.healingritualsaspen.com/articles/mind-body-practices-and-depression-research.html
+- Source: https://pubmed.ncbi.nlm.nih.gov/24395196/
+
+## Anxiety
+- Category URL: https://www.healingritualsaspen.com/conditions/anxiety-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/grounding-practices-when-anxiety-rises.html; https://www.healingritualsaspen.com/articles/breathing-meditation-and-anxiety-research.html
+- Source: https://pubmed.ncbi.nlm.nih.gov/23541163/
+
+## Stress
+- Category URL: https://www.healingritualsaspen.com/conditions/stress-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/building-a-realistic-stress-recovery-rhythm.html; https://www.healingritualsaspen.com/articles/meditation-breathing-and-stress-research.html
+- Source: https://pubmed.ncbi.nlm.nih.gov/28863392/
+
+## Relational Issues
+- Category URL: https://www.healingritualsaspen.com/conditions/relational-issues-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/pause-before-the-hard-conversation.html; https://www.healingritualsaspen.com/articles/mindfulness-and-relationship-research-guide.html
+- Source: https://www.nature.com/articles/s41598-020-78919-6
+
+## Fear of Death
+- Category URL: https://www.healingritualsaspen.com/conditions/fear-of-death-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/making-space-for-mortality-anxiety.html; https://www.healingritualsaspen.com/articles/psychedelic-trials-and-end-of-life-anxiety.html
+- Source: https://pubmed.ncbi.nlm.nih.gov/27909165/
+
+## Chronic Fatigue
+- Category URL: https://www.healingritualsaspen.com/conditions/chronic-fatigue-support.html
+- Status: Published
+- Publication/research-check date: 2026-09-16
+- Adds: Condition-focused bridge between complementary practices, practical application and appropriately bounded research.
+- Articles: https://www.healingritualsaspen.com/articles/rest-without-pushing-through-chronic-fatigue.html; https://www.healingritualsaspen.com/articles/mind-body-research-for-chronic-fatigue.html
+- Source: https://pubmed.ncbi.nlm.nih.gov/34202826/

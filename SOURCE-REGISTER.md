@@ -46,3 +46,36 @@ Checked: 2026-09-16
 - Link: https://www.nature.com/articles/s41598-020-78919-6
 - Study/source type and limitations: Randomized brief-intervention study focused on immediate conflict-related outcomes; not a couples-therapy trial.
 - Cited by: Listening without fixing: a quieter practice for couples
+
+
+# Condition-focused sources — 2026-09-16
+
+## Goyal M et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine. 2014;174(3):357–368.
+- Link: https://pubmed.ncbi.nlm.nih.gov/24395196/
+- Limitations: Systematic review of 47 trials; moderate evidence for small improvements in anxiety and depression, with no evidence that meditation exceeded exercise or other active therapies.
+- Cited by: Mind-body practices and depression: what the evidence supports
+
+## Hoge EA et al. Randomized Controlled Trial of Mindfulness Meditation for Generalized Anxiety Disorder. Journal of Clinical Psychiatry. 2013;74(8):786–792.
+- Link: https://pubmed.ncbi.nlm.nih.gov/23541163/
+- Limitations: Small randomized trial comparing MBSR with stress-management education in adults with generalized anxiety disorder; some anxiety and stress-reactivity outcomes improved.
+- Cited by: Breathing, meditation and anxiety: reading the research carefully
+
+## Pascoe MC et al. Mindfulness mediates the physiological markers of stress: Systematic review and meta-analysis. Journal of Psychiatric Research. 2017;95:156–178.
+- Link: https://pubmed.ncbi.nlm.nih.gov/28863392/
+- Limitations: Meta-analysis of randomized trials with active controls; meditation was associated with changes in several physiological stress markers, with heterogeneity across practices and populations.
+- Cited by: Meditation, breathing and stress: what changes have researchers measured?
+
+## Karremans JC et al. Comparing the effects of a mindfulness versus relaxation intervention on romantic relationship wellbeing. Scientific Reports. 2020;10:21696.
+- Link: https://www.nature.com/articles/s41598-020-78919-6
+- Limitations: Randomized brief-intervention study examining immediate conflict-related outcomes; not a trial of couples therapy or Healing Rituals sessions.
+- Cited by: Mindfulness and relationship wellbeing: what couples research suggests
+
+## Griffiths RR et al. Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. Journal of Psychopharmacology. 2016;30(12):1181–1197.
+- Link: https://pubmed.ncbi.nlm.nih.gov/27909165/
+- Limitations: Randomized double-blind crossover trial in 51 carefully screened patients with life-threatening cancer, extensive preparation and structured support; not general evidence for unsupervised use.
+- Cited by: Psychedelic trials and end-of-life anxiety: what was actually studied
+
+## Kim S et al. Systematic Review of Mind-Body Interventions to Treat Myalgic Encephalomyelitis/Chronic Fatigue Syndrome. Medicina. 2021;57(7):652.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34202826/
+- Limitations: Twelve studies with varied interventions and diagnostic criteria; reported improvements were tempered by small samples, heterogeneity and high risk of bias.
+- Cited by: Mind-body research for chronic fatigue: promise, limits and pacing
