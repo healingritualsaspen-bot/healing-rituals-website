@@ -72,21 +72,21 @@
     <section class="clarity-section" id="clarity">
       <div class="clarity-intro"><p class="kicker">Choose the easiest next step</p><h2>What Would Feel<br><em>Most Helpful?</em></h2><p>Request a relaxed clarity call or ask Lauren to send more information. There is no obligation to book a session.</p><div class="direct-actions"><a href="sms:+19709893333?&body=Hi%20Lauren%2C%20I%27d%20like%20more%20information%20about%20a%20private%20Healing%20Rituals%20journey." data-cta="form-text"><strong>Text Lauren</strong><span>970-989-3333</span></a><a href="tel:+19709893333" data-cta="form-call"><strong>Call Lauren</strong><span>970-989-3333</span></a><a href="mailto:healingritualsaspen@gmail.com?subject=Private%20Healing%20Journey%20Inquiry" data-cta="form-email"><strong>Email Lauren</strong><span>healingritualsaspen@gmail.com</span></a></div></div>
 
-      <form class="clarity-form" id="clarityForm" action="https://formsubmit.co/healingritualsaspen@gmail.com" method="POST">
+      <form class="clarity-form" id="clarityForm" action="/api/contact" method="POST" data-email-form data-success-url="/clarity-call-thank-you.html">
         <input type="hidden" name="_subject" value="New Google Ads Lead · Private Healing Aspen">
         <input type="hidden" name="_template" value="table">
         <input type="hidden" name="_next" value="https://www.healingritualsaspen.com/clarity-call-thank-you.html">
-        <input type="text" name="_honey" class="form-honey" tabindex="-1" autocomplete="off">
+        <input type="hidden" name="form_type" value="private_inquiry">\n        <input type="hidden" name="redirect" value="/clarity-call-thank-you.html">\n        <input type="text" name="_honey" class="form-honey" tabindex="-1" autocomplete="off">
         <fieldset class="intent-options"><legend>How can Lauren help?</legend><label><input type="radio" name="Requested next step" value="Request a Clarity Call" checked><span><strong>Request a Clarity Call</strong><small>A relaxed conversation about what you are seeking.</small></span></label><label><input type="radio" name="Requested next step" value="Send More Information"><span><strong>Send Me More Information</strong><small>Learn more first, without scheduling a call.</small></span></label></fieldset>
         <div class="form-grid"><label><span>Your name</span><input type="text" name="Name" autocomplete="name" required></label><label><span>Phone number <b>required</b></span><input type="tel" name="Phone" autocomplete="tel" inputmode="tel" required placeholder="(970) 555-1234"></label><label><span>Email address <small>optional unless choosing email</small></span><input type="email" name="email" id="leadEmail" autocomplete="email"></label><label><span>How should Lauren contact you?</span><select name="Preferred contact" id="contactPreference" required><option value="Text message">Text message</option><option value="Phone call">Phone call</option><option value="Email">Email</option></select></label><label class="form-wide"><span>What are you hoping to feel, change or understand? <small>optional</small></span><textarea name="What they are seeking" rows="4" placeholder="A few words are enough. Share only what feels comfortable."></textarea></label><label class="form-wide"><span>Best time to reach you <small>optional</small></span><input type="text" name="Best time to connect" placeholder="For example: weekday afternoons or after 5 PM"></label></div>
         <p class="privacy-promise"><strong>Your privacy matters.</strong> Your information will only be used to respond to this inquiry. You will not be added to a marketing list, spammed or have your information sold or shared for advertising.</p>
-        <button class="button button-submit" type="submit"><span>Send My Private Request</span><i>→</i></button>
+        <button class="button button-submit" type="submit"><span>Send My Private Request</span><i>→</i></button>\n        <p class="form-expectation" data-form-status aria-live="polite"></p>
         <p class="form-expectation">Lauren or a member of the Healing Rituals intake team will respond personally.</p>
       </form>
     </section>
   </main>
 
   <footer class="funnel-footer"><a class="funnel-brand" href="#top"><span>Healing</span> <em>Rituals</em></a><p>Private, personalized wellness experiences in Aspen and the Roaring Fork Valley.</p><div><a href="tel:+19709893333">Call</a><a href="sms:+19709893333">Text</a><a href="mailto:healingritualsaspen@gmail.com">Email</a></div><small>Healing Rituals provides non-clinical wellness experiences and does not diagnose or replace medical or mental-health care.</small></footer>
-  <script src="private-healing-aspen.js"></script>
+  <script src="forms.js"></script>\n  <script src="private-healing-aspen.js"></script>
 </body>
 </html>
