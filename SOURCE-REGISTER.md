@@ -166,3 +166,104 @@ Checked: 2026-09-18
 - Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-18.
 - Access: Full source or full evidence page accessible.
 - Cited by: Pacing with chronic fatigue: why “push through” can be the wrong message
+
+
+# Sources added or rechecked — 2026-09-25
+
+## Holmes EA, Mathews A. Mental imagery in emotion and emotional disorders. Clinical Psychology Review. 2010;30(3):349–362. doi:10.1016/j.cpr.2010.01.001.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20116915/
+- Study/source type, population, findings and limitations: Narrative review of experimental and clinical research; it does not test Healing Rituals’ branded process or prove that imagery changes entrenched patterns.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Why an inner image can feel emotionally real—and how to use that carefully
+
+## Jespersen KV, Pando-Naude V, Koenig J, Jennum P, Vuust P. Listening to music for insomnia in adults. Cochrane Database of Systematic Reviews. 2022;8:CD010459. doi:10.1002/14651858.CD010459.pub3.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36000763/
+- Study/source type, population, findings and limitations: Systematic review of 13 studies with 1,007 adults; evidence quality ranged from moderate to very low, interventions varied, and findings for objective sleep measures were uncertain.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Music and sleep: a softer evening ritual, not a guaranteed remedy
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: US government evidence overview: Reiki has not been clearly shown effective for a health-related purpose, and the proposed energy field is not established scientifically.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Choosing energy work with clear consent and grounded expectations
+
+## Toussaint L, Nguyen QA, Roettger C, et al. Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery in Promoting Psychological and Physiological States of Relaxation. Evidence-Based Complementary and Alternative Medicine. 2021;2021:5924040. doi:10.1155/2021/5924040.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Study/source type, population, findings and limitations: Randomized study of 60 healthy undergraduates after one 20-minute recorded exercise; it measured immediate states, not insomnia treatment or Healing Rituals’ service.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Letting effort soften: what progressive relaxation teaches about deep rest
+
+## Lehrer PM, Gevirtz R. Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology. 2014;5:756. doi:10.3389/fpsyg.2014.00756.
+- Link: https://pubmed.ncbi.nlm.nih.gov/25101026/
+- Study/source type, population, findings and limitations: Mechanistic review of HRV biofeedback and resonance-frequency breathing; it is not a trial of Healing Rituals’ gentle breathwork, and individual comfortable rates vary.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Slow breathing and heart-rate variability: why comfort matters more than a perfect count
+
+## Studerus E, Gamma A, Kometer M, Vollenweider FX. Prediction of psilocybin response in healthy volunteers. PLOS ONE. 2012;7(2):e30800. doi:10.1371/journal.pone.0030800.
+- Link: https://pubmed.ncbi.nlm.nih.gov/22372143/
+- Study/source type, population, findings and limitations: Pooled analysis of controlled studies in carefully screened healthy volunteers; observational prediction cannot establish causation or generalize to unsupervised or clinical use.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Set, setting and support: what psychedelic preparation can—and cannot—control
+
+## Twohig-Bennett C, Jones A. The health benefits of the great outdoors: a systematic review and meta-analysis of greenspace exposure and health outcomes. Environmental Research. 2018;166:628–637. doi:10.1016/j.envres.2018.06.030.
+- Link: https://pubmed.ncbi.nlm.nih.gov/29982151/
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous observational and intervention evidence; associations do not prove that a retreat or a specific amount of nature exposure causes health improvement.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Nature, attention and spaciousness: designing a retreat without overfilling it
+
+## Gable SL, Reis HT, Impett EA, Asher ER. What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events. Journal of Personality and Social Psychology. 2004;87(2):228–245. doi:10.1037/0022-3514.87.2.228.
+- Link: https://pubmed.ncbi.nlm.nih.gov/15301629/
+- Study/source type, population, findings and limitations: Four-study investigation of sharing positive events and listener responses; samples and measures do not establish that one exercise repairs relationship distress.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Feeling understood: the small moments that make connection more believable
+
+## Noetel M, Sanders T, Gallardo-Gómez D, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847. doi:10.1136/bmj-2023-075847.
+- Link: https://pubmed.ncbi.nlm.nih.gov/38355154/
+- Study/source type, population, findings and limitations: Network meta-analysis of 218 randomized studies; certainty varied, trials were difficult to blind, and the findings do not mean exercise is sufficient or feasible for everyone.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Movement and depression: supportive evidence without the “just exercise” message
+
+## Hoge EA, Bui E, Mete M, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023;80(1):13–21. doi:10.1001/jamapsychiatry.2022.3679.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36350591/
+- Study/source type, population, findings and limitations: Randomized noninferiority trial of 276 adults completing a structured eight-week MBSR program or escitalopram under research care; it does not show equivalence for every person or for brief wellness practices.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Mindfulness and anxiety: what a comparison with medication actually showed
+
+## Ferrari M, Hunt C, Harrysunker A, Abbott MJ, Beath AP, Einstein DA. Self-Compassion Interventions and Psychosocial Outcomes: a Meta-Analysis of RCTs. Mindfulness. 2019;10:1455–1473. doi:10.1007/s12671-019-01134-6.
+- Link: https://doi.org/10.1007/s12671-019-01134-6
+- Study/source type, population, findings and limitations: Meta-analysis of heterogeneous randomized interventions, many with small samples and self-report outcomes; it does not establish that self-kindness removes external stressors.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Self-compassion under stress: support without another self-improvement project
+
+## Christensen A, Heavey CL. Gender and social structure in the demand/withdraw pattern of marital conflict. Journal of Personality and Social Psychology. 1990;59(1):73–81. doi:10.1037/0022-3514.59.1.73.
+- Link: https://pubmed.ncbi.nlm.nih.gov/1348341/
+- Study/source type, population, findings and limitations: Observational research in married couples from an earlier era; patterns are not fixed by gender, and associations do not establish that one partner causes the other’s behavior.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: When one person pursues and the other retreats: interrupting the demand–withdraw loop
+
+## Chochinov HM, Kristjanson LJ, Breitbart W, et al. Effect of dignity therapy on distress and end-of-life experience in terminally ill patients: a randomised controlled trial. Lancet Oncology. 2011;12(8):753–762. doi:10.1016/S1470-2045(11)70153-X.
+- Link: https://pubmed.ncbi.nlm.nih.gov/21741309/
+- Study/source type, population, findings and limitations: Randomized trial in terminally ill patients; primary distress outcomes did not all differ, while several secondary experience measures favored dignity therapy. It requires trained clinical context.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: Dignity, legacy and fear of death: what one structured therapy studied
+
+## National Institute for Health and Care Excellence. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Evidence-based clinical guideline, not a trial. Energy management must be individualized and does not guarantee symptom improvement.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
+- Access: Full source or full evidence page accessible.
+- Cited by: An energy diary without quotas: noticing patterns in chronic fatigue
