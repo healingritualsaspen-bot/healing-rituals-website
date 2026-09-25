@@ -319,3 +319,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guides named in article
 - Unique contribution: When exertion can trigger delayed worsening, pacing begins with observing limits—not gradually forcing activity upward.
 - Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+
+# Articles added — 2026-09-25
+
+## Why an inner image can feel emotionally real—and how to use that carefully
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/mental-imagery-emotion-and-everyday-choice.html
+- Reader question / search intent: Why can a guided image feel emotionally powerful, and how can I use it after a session?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/20116915/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Explore what mental-imagery research suggests about emotion, then turn a meaningful image into one grounded everyday choice.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Music and sleep: a softer evening ritual, not a guaranteed remedy
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/music-listening-insomnia-and-evening-rest.html
+- Reader question / search intent: Can listening to music help sleep, and how should I try it without adding pressure?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36000763/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What a Cochrane review found about listening to music for adult insomnia—and how to create a low-pressure evening ritual.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Choosing energy work with clear consent and grounded expectations
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/choosing-an-energy-work-practitioner-with-discernment.html
+- Reader question / search intent: How can I choose a Reiki or energy-work practitioner responsibly?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://www.nccih.nih.gov/health/reiki
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Questions that help you choose an energy-work practitioner while respecting spiritual meaning and scientific uncertainty.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Letting effort soften: what progressive relaxation teaches about deep rest
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/progressive-relaxation-and-deep-rest-without-striving.html
+- Reader question / search intent: How can I settle into guided deep rest when my body still feels tense?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Use the logic of progressive relaxation to make guided deep rest more comfortable—without forcing the body to relax.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Slow breathing and heart-rate variability: why comfort matters more than a perfect count
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/slow-breathing-hrv-and-comfortable-pacing.html
+- Reader question / search intent: Do I need a specific breathing rate to benefit from gentle breathwork?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/25101026/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Understand what HRV biofeedback research proposes, and use comfortable breath pacing without chasing a number.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Set, setting and support: what psychedelic preparation can—and cannot—control
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/set-setting-and-psychedelic-preparation-research.html
+- Reader question / search intent: Why do preparation and setting matter in psychedelic experiences?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/22372143/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A careful look at set and setting in psychedelic research, with practical questions for legal, supported preparation and integration.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Nature, attention and spaciousness: designing a retreat without overfilling it
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/nature-attention-and-private-retreat-design.html
+- Reader question / search intent: Should nature time be part of a private wellness retreat?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/29982151/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What greenspace research can suggest—and not prove—about leaving room for nature and recovery in a private retreat.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Feeling understood: the small moments that make connection more believable
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/partner-responsiveness-and-small-moments-of-connection.html
+- Reader question / search intent: What helps a partner feel genuinely understood and cared for?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/15301629/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A practical guide to partner responsiveness—feeling understood, cared for and appreciated—without turning connection into a performance.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Movement and depression: supportive evidence without the “just exercise” message
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/movement-depression-evidence-and-gentle-choice.html
+- Reader question / search intent: Can movement help depression if motivation and energy are low?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/38355154/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What a large 2024 review found about exercise for depression, and how to translate it without blame, pressure or replacing care.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Mindfulness and anxiety: what a comparison with medication actually showed
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/mindfulness-anxiety-trial-and-realistic-expectations.html
+- Reader question / search intent: Is mindfulness as effective as medication for anxiety?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36350591/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Read a major anxiety trial carefully, including what MBSR involved, what the comparison means and why wellness sessions are different.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Self-compassion under stress: support without another self-improvement project
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/self-compassion-stress-without-self-improvement-pressure.html
+- Reader question / search intent: Can self-compassion help with stress without becoming another task?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://doi.org/10.1007/s12671-019-01134-6
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Use self-compassion research to soften the way you meet stress while keeping practical limits, recovery and real-world support in view.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## When one person pursues and the other retreats: interrupting the demand–withdraw loop
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/demand-withdraw-pattern-and-safer-conversations.html
+- Reader question / search intent: Why does one of us push to talk while the other shuts down?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/1348341/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Recognize the demand–withdraw relationship pattern and prepare a smaller, safer conversation without blaming either role.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Dignity, legacy and fear of death: what one structured therapy studied
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/dignity-therapy-end-of-life-research-and-legacy.html
+- Reader question / search intent: Can reflecting on dignity and legacy help someone facing death?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://pubmed.ncbi.nlm.nih.gov/21741309/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A careful look at dignity therapy in terminal illness and the boundary between clinical end-of-life care and personal reflection.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## An energy diary without quotas: noticing patterns in chronic fatigue
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/energy-diary-chronic-fatigue-without-fixed-goals.html
+- Reader question / search intent: How can I track energy with chronic fatigue without turning it into pressure?
+- Status: Published
+- Publication date: 2026-09-25
+- Research-check date: 2026-09-25
+- Sources: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Use an energy diary to notice delayed symptom changes while avoiding fixed increases, self-blame and pushing through post-exertional malaise.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
