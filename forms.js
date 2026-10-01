@@ -5,6 +5,7 @@
     const button = form.querySelector('button[type="submit"]');
     const status = form.querySelector('[data-form-status]');
     const originalButton = button ? button.innerHTML : '';
+    const isEventRsvp = form.elements.form_type?.value === 'event_rsvp';
 
     form.addEventListener('submit', async (event) => {
       event.preventDefault();
@@ -14,10 +15,10 @@
       if (button) {
         button.disabled = true;
         button.setAttribute('aria-busy', 'true');
-        button.textContent = 'Sending…';
+        button.textContent = isEventRsvp ? 'Confirming RSVP…' : 'Sending…';
       }
       if (status) {
-        status.textContent = 'Securely sending your request…';
+        status.textContent = isEventRsvp ? 'Confirming your RSVP…' : 'Securely sending your request…';
         status.classList.remove('form-error');
       }
 
@@ -35,7 +36,9 @@
         }
 
         if (status) {
-          status.textContent = result.confirmationSent
+          status.textContent = isEventRsvp
+            ? 'Your RSVP is confirmed. Your reservation is complete.'
+            : result.confirmationSent
             ? 'Your request was sent. Please check your email for confirmation.'
             : 'Your request was sent successfully.';
         }
