@@ -529,3 +529,18 @@ to{opacity:1;transform:none}
 .subconscious-truth p:last-child{max-width:68ch}
 .quantum-journey-cta{margin:28px auto 8px}
 @media(max-width:650px){.subconscious-scale{grid-template-columns:1fr;margin-top:30px}.mind-ratio{min-height:145px}.conscious-ratio,.subconscious-ratio{border-radius:24px}.mind-ratio strong{font-size:4.2rem}.subconscious-truth{padding:25px 20px}}
+
+
+/* Natural homepage keyword introduction */
+.hero-seo-line{display:block;margin-bottom:13px;font:600 clamp(.58rem,1vw,.72rem)/1.4 "Montserrat",sans-serif;letter-spacing:.22em;text-transform:uppercase;color:#ddc69f}
+.psychedelic-seo-intro{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:clamp(38px,7vw,100px);align-items:start;background:linear-gradient(135deg,#f6efe5 0%,#eee2d2 100%);color:#381422}
+.seo-intro-heading{position:sticky;top:110px}
+.seo-intro-heading h2{margin:10px 0 22px;font:500 clamp(2.6rem,5vw,5.2rem)/.94 "Cormorant Garamond",serif;letter-spacing:-.035em}
+.seo-intro-heading h2 em{color:#79213e}
+.seo-intro-heading .lead{max-width:32rem;font-size:1.05rem;line-height:1.75}
+.seo-intro-copy{padding-top:10px}
+.seo-intro-copy>p{margin:0 0 18px;max-width:42rem;font-size:1rem;line-height:1.75}
+.seo-intro-links{margin-top:30px;display:flex;flex-wrap:wrap;gap:12px}
+.seo-intro-links a{padding:13px 18px;border:1px solid rgba(91,19,41,.22);border-radius:100px;color:#5d1329;font:600 .62rem/1.3 "Montserrat",sans-serif;letter-spacing:.08em;text-transform:uppercase;transition:background .2s,color .2s,transform .2s}
+.seo-intro-links a:hover{background:#5d1329;color:#fff;transform:translateY(-2px)}
+@media(max-width:800px){.psychedelic-seo-intro{grid-template-columns:1fr;gap:25px}.seo-intro-heading{position:static}.seo-intro-heading h2{font-size:clamp(2.5rem,11vw,4.1rem)}}
