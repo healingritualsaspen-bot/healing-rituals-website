@@ -490,3 +490,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guides named in article
 - Unique contribution: Use an energy diary to notice delayed symptom changes while avoiding fixed increases, self-blame and pushing through post-exertional malaise.
 - Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+
+# Articles added — 2026-10-02
+
+## From intention to response: using an “if–then” plan after a guided journey
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/if-then-plans-after-a-guided-journey.html
+- Reader question / search intent: How do I carry an intention from a guided session into daily life?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A simple way to connect an inner intention with the moment it matters, without expecting insight alone to change a habit.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## The most supportive sound may be the one you are free to change
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/choice-agency-and-music-for-rest.html
+- Reader question / search intent: Does it matter who chooses the music when I am trying to relax?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Why preference, control and permission to stop matter when using music or sound as part of a personal rest ritual.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## How to speak about an energy-work experience without turning it into a medical claim
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/grounded-language-for-energy-work-experiences.html
+- Reader question / search intent: How can I describe what I felt in energy work without overstating what happened?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://www.nccih.nih.gov/health/reiki
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Language for describing rest, sensation and spiritual meaning while keeping diagnosis, mechanisms and health claims appropriately separate.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## When deep rest is supportive—but persistent insomnia needs more
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/guided-deep-rest-and-insomnia-treatment-boundaries.html
+- Reader question / search intent: Can guided deep rest replace treatment for chronic insomnia?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/27136449/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to value rest without mistaking a wellness practice for evidence-based treatment of chronic insomnia.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## What the cyclic-sighing study found—and why gentler is still a valid choice
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/cyclic-sighing-study-and-gentle-breathwork.html
+- Reader question / search intent: What did the Stanford cyclic-sighing study actually show?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A clear reading of a prominent breathing study, including its short duration, remote design and limits for individual practice.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Why expectancy makes psychedelic research unusually difficult to interpret
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/expectancy-and-blinding-in-psychedelic-research.html
+- Reader question / search intent: Why are psychedelic clinical trials difficult to blind?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34038314/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How obvious subjective effects can unblind a clinical trial—and why promising findings still require careful reading.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Why the space between retreat experiences may matter as much as the schedule
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/spacing-a-private-retreat-for-recovery.html
+- Reader question / search intent: How much unscheduled time should a private wellness retreat include?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://doi.org/10.1186/s12906-017-2078-4
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Design a private retreat with recovery, reflection and accessibility in mind rather than filling every available hour.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## When something goes right: how a response can deepen connection
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/responding-to-good-news-in-relationships.html
+- Reader question / search intent: How should I respond when my partner shares good news?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/15301629/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What relationship research on sharing positive events suggests about attention, curiosity and celebrating without taking over.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Meditation and depression: modest evidence, meaningful limits
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/meditation-and-depression-reading-the-evidence-carefully.html
+- Reader question / search intent: Can meditation help depression, and how strong is the evidence?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/24395196/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What a major systematic review found about meditation programs for depressive symptoms—and why structured care still matters.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Anxiety skills need structure—not constant self-monitoring
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/anxiety-practice-structure-and-repetition.html
+- Reader question / search intent: How often do anxiety-regulation skills need to be practiced?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36350591/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What an eight-week mindfulness trial suggests about repetition, support and realistic expectations for anxiety skills.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## A small nature pause can be recovery without becoming another wellness assignment
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/nature-microbreaks-and-stress-recovery.html
+- Reader question / search intent: Can a short nature break support stress recovery?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/29982151/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to use brief contact with nature as a transition while reading broad greenspace research with appropriate caution.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## An apology can open a door; forgiveness still cannot be demanded
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/apology-forgiveness-and-relationship-boundaries.html
+- Reader question / search intent: Does an apology mean I should forgive or reconnect?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What forgiveness research suggests about apology and empathy, with clear boundaries around accountability, safety and reconciliation.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Fear of death can be supported in more than one way—but context matters
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/psychosocial-support-and-death-anxiety-evidence.html
+- Reader question / search intent: What kinds of psychological support have been studied for death anxiety?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What a systematic review of psychosocial interventions suggests about death anxiety without turning mortality into a problem to eliminate.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Rest before the crash: responding to symptoms without using a fixed schedule
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/symptom-contingent-rest-and-chronic-fatigue.html
+- Reader question / search intent: Should I schedule rest or wait for symptoms when living with chronic fatigue?
+- Status: Published
+- Publication date: 2026-10-02
+- Research-check date: 2026-10-02
+- Sources: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A pacing-oriented guide to flexible, symptom-contingent rest when chronic fatigue includes delayed worsening after exertion.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
