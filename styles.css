@@ -513,3 +513,19 @@ to{opacity:1;transform:none}
 .homepage-funnel-cta strong{grid-column:1;font:500 1.13rem/1.25 "Cormorant Garamond",serif}
 .homepage-funnel-cta b{grid-column:2;grid-row:1/3;padding:10px 15px;border-radius:100px;background:#5d1329;color:#fff;font:600 .54rem/1.35 "Montserrat",sans-serif;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap}
 @media(max-width:650px){.homepage-funnel-cta{width:100%;grid-template-columns:1fr;padding:13px 14px 14px;border-radius:18px;text-align:center;gap:4px}.homepage-funnel-cta span,.homepage-funnel-cta strong,.homepage-funnel-cta b{grid-column:1}.homepage-funnel-cta b{grid-row:auto;margin-top:6px;padding:10px 12px}.homepage-funnel-cta strong{font-size:1.08rem}}
+
+
+/* Conscious and subconscious mind visual */
+.subconscious-scale{width:min(820px,100%);margin:42px auto 24px;display:grid;grid-template-columns:minmax(150px,1fr) minmax(280px,4fr);gap:10px;align-items:stretch}
+.mind-ratio{position:relative;overflow:hidden;min-height:180px;padding:28px 24px;border:1px solid rgba(196,156,104,.28);display:flex;flex-direction:column;justify-content:flex-end;background:linear-gradient(145deg,rgba(255,255,255,.08),rgba(255,255,255,.02))}
+.mind-ratio::before{content:"";position:absolute;inset:auto -15% -55% auto;width:170px;aspect-ratio:1;border:1px solid rgba(215,180,127,.22);border-radius:50%;box-shadow:0 0 0 22px rgba(215,180,127,.05),0 0 0 46px rgba(215,180,127,.025)}
+.conscious-ratio{border-radius:70px 18px 18px 70px}
+.subconscious-ratio{border-radius:18px 100px 100px 18px;background:linear-gradient(135deg,rgba(91,29,52,.92),rgba(48,18,40,.96))}
+.mind-ratio strong{position:relative;font:500 clamp(3.2rem,7vw,6.2rem)/.8 "Cormorant Garamond",serif;color:#e4c99d;letter-spacing:-.04em}
+.mind-ratio span{position:relative;margin-top:18px;font:600 .62rem/1.4 "Montserrat",sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#f8efe2}
+.mind-ratio small{position:relative;margin-top:6px;font:400 .72rem/1.55 "Montserrat",sans-serif;color:rgba(248,239,226,.68)}
+.subconscious-truth{width:min(780px,100%);margin:0 auto 28px;padding:30px clamp(22px,4vw,42px);border-left:1px solid rgba(196,156,104,.5);background:linear-gradient(90deg,rgba(196,156,104,.08),transparent)}
+.subconscious-truth h3{margin:8px 0 13px;font:500 clamp(1.8rem,4vw,3rem)/1.05 "Cormorant Garamond",serif}
+.subconscious-truth p:last-child{max-width:68ch}
+.quantum-journey-cta{margin:28px auto 8px}
+@media(max-width:650px){.subconscious-scale{grid-template-columns:1fr;margin-top:30px}.mind-ratio{min-height:145px}.conscious-ratio,.subconscious-ratio{border-radius:24px}.mind-ratio strong{font-size:4.2rem}.subconscious-truth{padding:25px 20px}}
