@@ -267,3 +267,104 @@ Checked: 2026-09-18
 - Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-25.
 - Access: Full source or full evidence page accessible.
 - Cited by: An energy diary without quotas: noticing patterns in chronic fatigue
+
+
+# Sources added or rechecked — 2026-10-02
+
+## Gollwitzer PM, Sheeran P. Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes. Advances in Experimental Social Psychology. 2006;38:69–119. doi:10.1016/S0065-2601(06)38002-1.
+- Link: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Study/source type, population, findings and limitations: Meta-analysis across varied goals and populations; it evaluates if–then planning, not guided imagery, subconscious reprogramming or Healing Rituals’ combined process.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: From intention to response: using an “if–then” plan after a guided journey
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses. Health Psychology Review. 2020;14(2):294–324. doi:10.1080/17437199.2019.1627897.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous music interventions, settings and populations; results cannot be attributed to one genre, instrument, live sound session or Healing Rituals offering.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: The most supportive sound may be the one you are free to change
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: US government evidence overview; it reports that Reiki has not been clearly shown effective for a health-related purpose and that the proposed energy field is not scientifically established.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: How to speak about an energy-work experience without turning it into a medical claim
+
+## Qaseem A, Kansagara D, Forciea MA, Cooke M, Denberg TD. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Annals of Internal Medicine. 2016;165(2):125–133. doi:10.7326/M15-2175.
+- Link: https://pubmed.ncbi.nlm.nih.gov/27136449/
+- Study/source type, population, findings and limitations: Clinical practice guideline for adults with chronic insomnia; it recommends CBT-I as initial treatment and does not evaluate Healing Rituals’ Guided Deep Rest.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: When deep rest is supportive—but persistent insomnia needs more
+
+## Balban MY, Neri E, Kogon MM, et al. Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine. 2023;4(1):100895. doi:10.1016/j.xcrm.2022.100895.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Study/source type, population, findings and limitations: Remote randomized study of 108 completers practicing five minutes daily for 28 days; outcomes were short-term, adherence was self-reported and the study did not establish treatment for an anxiety disorder.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: What the cyclic-sighing study found—and why gentler is still a valid choice
+
+## Muthukumaraswamy SD, Forsyth A, Lumley T. Blinding and expectancy confounds in psychedelic randomized controlled trials. Expert Review of Clinical Pharmacology. 2021;14(9):1133–1152. doi:10.1080/17512433.2021.1933434.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34038314/
+- Study/source type, population, findings and limitations: Methodological review and expert analysis, not an efficacy trial; it argues that expectancy and unblinding may inflate estimated effects, while the size of that influence remains uncertain.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Why expectancy makes psychedelic research unusually difficult to interpret
+
+## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+- Link: https://doi.org/10.1186/s12906-017-2078-4
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous residential programs; bundled activities, self-selection and limited follow-up prevent conclusions about which retreat components caused reported changes.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Why the space between retreat experiences may matter as much as the schedule
+
+## Gable SL, Reis HT, Impett EA, Asher ER. What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events. Journal of Personality and Social Psychology. 2004;87(2):228–245. doi:10.1037/0022-3514.87.2.228.
+- Link: https://pubmed.ncbi.nlm.nih.gov/15301629/
+- Study/source type, population, findings and limitations: Four studies of positive-event sharing and relationship outcomes; the research does not show that one response repairs serious conflict or replaces couples therapy.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: When something goes right: how a response can deepen connection
+
+## Goyal M, Singh S, Sibinga EMS, et al. Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA Internal Medicine. 2014;174(3):357–368. doi:10.1001/jamainternmed.2013.13018.
+- Link: https://pubmed.ncbi.nlm.nih.gov/24395196/
+- Study/source type, population, findings and limitations: Systematic review of 47 trials with 3,515 participants in varied clinical populations; effects were generally small to moderate, programs were structured, and evidence did not show superiority to active treatments.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Meditation and depression: modest evidence, meaningful limits
+
+## Hoge EA, Bui E, Mete M, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023;80(1):13–21. doi:10.1001/jamapsychiatry.2022.3679.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36350591/
+- Study/source type, population, findings and limitations: Randomized noninferiority trial of 276 adults comparing a manualized eight-week MBSR program with escitalopram; it does not validate brief wellness practices or establish the best care for every person.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Anxiety skills need structure—not constant self-monitoring
+
+## Twohig-Bennett C, Jones A. The health benefits of the great outdoors: a systematic review and meta-analysis of greenspace exposure and health outcomes. Environmental Research. 2018;166:628–637. doi:10.1016/j.envres.2018.06.030.
+- Link: https://pubmed.ncbi.nlm.nih.gov/29982151/
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous observational and intervention evidence; associations cannot prove that a brief nature break causes a specific health outcome.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: A small nature pause can be recovery without becoming another wellness assignment
+
+## Fehr R, Gelfand MJ, Nag M. The road to forgiveness: a meta-analytic synthesis of its situational and dispositional correlates. Psychological Bulletin. 2010;136(5):894–914. doi:10.1037/a0019993.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Study/source type, population, findings and limitations: Meta-analysis of correlates across 175 studies and 26,006 participants; correlational findings do not prove that an apology causes forgiveness or that reconciliation is safe.
+- Correction/retraction check: PubMed indexes a 2011 erratum (Psychological Bulletin. 2011;137(2):366); no retraction notice was identified during the 2026-10-02 research check.
+- Access: Full source or full evidence page accessible.
+- Cited by: An apology can open a door; forgiveness still cannot be demanded
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety: A meta-analysis and systematic review of randomised controlled trials. Journal of Anxiety Disorders. 2018;59:64–73. doi:10.1016/j.janxdis.2018.09.004.
+- Link: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Study/source type, population, findings and limitations: Systematic review and meta-analysis of 15 randomized trials using varied interventions and populations; study quality and heterogeneity limit conclusions about which approach fits an individual.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Fear of death can be supported in more than one way—but context matters
+
+## National Institute for Health and Care Excellence. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Evidence-based clinical guideline, not a treatment trial; energy management is individualized and does not guarantee improvement.
+- Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
+- Access: Full source or full evidence page accessible.
+- Cited by: Rest before the crash: responding to symptoms without using a fixed schedule
