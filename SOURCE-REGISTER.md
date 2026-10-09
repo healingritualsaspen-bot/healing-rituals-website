@@ -368,3 +368,104 @@ Checked: 2026-09-18
 - Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
 - Access: Full source or full evidence page accessible.
 - Cited by: Rest before the crash: responding to symptoms without using a fixed schedule
+
+
+# Sources added or rechecked — 2026-10-09
+
+## Epton T, Harris PR, Kane R, van Koningsbruggen GM, Sheeran P. The impact of self-affirmation on health-behavior change: a meta-analysis. Health Psychology. 2015;34(3):187–196. doi:10.1037/hea0000116.
+- Link: https://pubmed.ncbi.nlm.nih.gov/25133846/
+- Study/source type, population, findings and limitations: Meta-analysis of self-affirmation exercises paired with health messages; effects were small and the research did not study Healing Rituals or prove that affirmations reprogram the subconscious.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Choosing an intention that feels true—not artificially positive
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses. Health Psychology Review. 2020;14(2):294–324. doi:10.1080/17437199.2019.1627897.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Study/source type, population, findings and limitations: Systematic review of varied music interventions and populations; it cannot isolate the effect of silence or establish outcomes for a live sound-healing session.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: After the final note: why silence can be part of a sound experience
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: US government evidence overview reporting that Reiki has not been clearly shown effective for a health-related purpose and that the proposed energy field is not scientifically established.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Touch, no touch and changing your mind during energy work
+
+## Toussaint L, Nguyen QA, Roettger C, et al. Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery in Promoting Psychological and Physiological States of Relaxation. Evidence-Based Complementary and Alternative Medicine. 2021;2021:5924040. doi:10.1155/2021/5924040.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Study/source type, population, findings and limitations: Randomized comparison in 60 healthy undergraduates after one recorded exercise; it measured immediate relaxation, not sleep, clinical treatment or Healing Rituals’ offering.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: When your mind wanders during Guided Deep Rest
+
+## Lehrer PM, Gevirtz R. Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology. 2014;5:756. doi:10.3389/fpsyg.2014.00756.
+- Link: https://pubmed.ncbi.nlm.nih.gov/25101026/
+- Study/source type, population, findings and limitations: Mechanistic review of HRV biofeedback, which uses measurement and individualized resonance-frequency training; it is not evidence that consumer wearable scores validate a breathing practice.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Breath awareness without chasing a wearable score
+
+## Pilecki B, Luoma JB, Bathje GJ, Rhea J, Narloch VF. Ethical and legal issues in psychedelic harm reduction and integration therapy. Harm Reduction Journal. 2021;18:40. doi:10.1186/s12954-021-00489-1.
+- Link: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Study/source type, population, findings and limitations: Ethics and practice analysis rather than an outcome trial; it addresses scope, competence and legality but does not prove integration therapy effectiveness.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Good integration includes boundaries, confidentiality and referral
+
+## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+- Link: https://doi.org/10.1186/s12906-017-2078-4
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreat programs with selection bias and limited follow-up; it cannot identify an ideal amount of solitude or guided time.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Private time and shared time: finding the right retreat rhythm
+
+## Karremans JC, Schellekens MPJ, Kappen G, et al. Comparing the effects of a mindfulness versus relaxation intervention on romantic relationship wellbeing. Scientific Reports. 2020;10:21696. doi:10.1038/s41598-020-78919-6.
+- Link: https://www.nature.com/articles/s41598-020-78919-6
+- Study/source type, population, findings and limitations: Brief randomized intervention research examining relationship and conflict-related outcomes; it was not couples therapy and does not apply to unsafe relationships.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Quiet connection: being together without forcing a conversation
+
+## Vazquez Alvarez C, Mirza L, Das-Munshi J, Oswald TK. Social connection interventions and depression in young adults: a systematic review and meta-analysis. Social Psychiatry and Psychiatric Epidemiology. 2025;60(3):549–562. doi:10.1007/s00127-024-02722-1.
+- Link: https://pubmed.ncbi.nlm.nih.gov/39150513/
+- Study/source type, population, findings and limitations: Systematic review and meta-analysis focused on young adults; interventions and measures varied, evidence quality was limited, and results do not generalize to every age or severity.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Social connection and depression: support without forcing yourself to be social
+
+## Miller ML, McGuire JF. Targeting intolerance of uncertainty in treatment: a meta-analysis of therapeutic effects, treatment moderators, and underlying mechanisms. Journal of Affective Disorders. 2023;341:283–295. doi:10.1016/j.jad.2023.08.132.
+- Link: https://pubmed.ncbi.nlm.nih.gov/37657623/
+- Study/source type, population, findings and limitations: Meta-analysis of psychological treatments targeting intolerance of uncertainty; it concerns structured therapy, not wellness practices or advice to simply accept uncertainty.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Uncertainty, anxiety and the urge to get one more answer
+
+## Karabinski T, Haun VC, Nübold A, Wendsche J, Wegge J. Interventions for improving psychological detachment from work: a meta-analysis. Journal of Occupational Health Psychology. 2021;26(3):224–242.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Study/source type, population, findings and limitations: Meta-analysis of 30 studies and 34 interventions; average effects were modest, intervention types varied and detachment cannot solve excessive workload or unsafe employment.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Ending the workday when your mind is still at work
+
+## Fehr R, Gelfand MJ, Nag M. The road to forgiveness: a meta-analytic synthesis of its situational and dispositional correlates. Psychological Bulletin. 2010;136(5):894–914. doi:10.1037/a0019993.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Study/source type, population, findings and limitations: Meta-analysis of correlates across 175 studies; it does not prove that apology causes forgiveness. PubMed indexes a 2011 erratum; no retraction was identified.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: After the apology: letting trust rebuild more slowly than words
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety: a meta-analysis and systematic review of randomised controlled trials. Journal of Anxiety Disorders. 2018;59:64–73. doi:10.1016/j.janxdis.2018.09.004.
+- Link: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Study/source type, population, findings and limitations: Systematic review of 15 heterogeneous randomized trials; it does not establish that an informal family conversation reduces death anxiety or replaces palliative and mental-health care.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Talking with someone you love about death without forcing reassurance
+
+## National Institute for Health and Care Excellence. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Evidence-based clinical guideline, not a trial; energy management is individualized and cannot guarantee symptom improvement.
+- Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
+- Access: Full source or complete evidence page accessible.
+- Cited by: Thinking takes energy too: pacing cognitive exertion with chronic fatigue
