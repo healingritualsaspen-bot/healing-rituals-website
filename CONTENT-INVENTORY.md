@@ -661,3 +661,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guides named in article
 - Unique contribution: A pacing-oriented guide to flexible, symptom-contingent rest when chronic fatigue includes delayed worsening after exertion.
 - Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+
+# Articles added — 2026-10-09
+
+## Choosing an intention that feels true—not artificially positive
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/values-based-intentions-without-forced-positivity.html
+- Reader question / search intent: How do I choose an intention when positive affirmations do not feel believable?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/25133846/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How values reflection can shape a believable intention without requiring you to deny grief, anger or uncertainty.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## After the final note: why silence can be part of a sound experience
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/silence-after-sound-and-gentle-integration.html
+- Reader question / search intent: What should I do in the quiet after a sound-healing session?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A gentle way to use the quiet after music or vibrational sound without forcing insight, interpretation or emotional release.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Touch, no touch and changing your mind during energy work
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/touch-no-touch-and-consent-in-energy-work.html
+- Reader question / search intent: Can I request no touch—or change my mind—during energy work?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://www.nccih.nih.gov/health/reiki
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to state touch preferences, revise consent and choose comfort without needing to justify your boundaries.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## When your mind wanders during Guided Deep Rest
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/mind-wandering-during-guided-deep-rest.html
+- Reader question / search intent: Am I doing Guided Deep Rest wrong if I stop following the words?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Why drifting away from the words is not failure—and how to return without turning rest into concentration practice.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Breath awareness without chasing a wearable score
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/breath-awareness-without-wearable-scores.html
+- Reader question / search intent: Do I need HRV or a wearable to know whether breathwork is helping?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/25101026/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to use comfort and function—not a device metric—as the main guide for a gentle breathing practice.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Good integration includes boundaries, confidentiality and referral
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/ethical-boundaries-in-psychedelic-integration.html
+- Reader question / search intent: What professional boundaries should I expect in psychedelic integration support?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Questions that help distinguish reflective integration support from clinical treatment, directive interpretation or unsafe dependence.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Private time and shared time: finding the right retreat rhythm
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/private-and-shared-time-in-a-wellness-retreat.html
+- Reader question / search intent: How much of a private wellness retreat should be spent alone?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://doi.org/10.1186/s12906-017-2078-4
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to balance guided experiences, companionship and genuine solitude without making a retreat feel isolating or crowded.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Quiet connection: being together without forcing a conversation
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/quiet-connection-without-forcing-disclosure.html
+- Reader question / search intent: Can couples reconnect without talking through everything immediately?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://www.nature.com/articles/s41598-020-78919-6
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How shared rest or simple attention can create room for connection while respecting different needs for words and silence.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Social connection and depression: support without forcing yourself to be social
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/social-connection-and-depression-without-forcing-socializing.html
+- Reader question / search intent: Can social connection help depression when being around people feels exhausting?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/39150513/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What intervention research suggests about loneliness and depression, with room for low energy, preference and clinical care.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Uncertainty, anxiety and the urge to get one more answer
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/uncertainty-anxiety-and-the-urge-for-reassurance.html
+- Reader question / search intent: Why do I keep seeking reassurance when I am anxious?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/37657623/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How research on intolerance of uncertainty can illuminate reassurance seeking without turning uncertainty into another thing to master.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Ending the workday when your mind is still at work
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/ending-the-workday-and-psychological-detachment.html
+- Reader question / search intent: How can I stop thinking about work after the workday ends?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: What research on psychological detachment suggests about creating a believable boundary between work and recovery.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## After the apology: letting trust rebuild more slowly than words
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/boundaries-after-an-apology-and-before-trust.html
+- Reader question / search intent: What boundaries are reasonable after someone apologizes?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Why receiving an apology does not require immediate access, forgiveness or restoration of the previous relationship.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Talking with someone you love about death without forcing reassurance
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/talking-with-loved-ones-about-mortality.html
+- Reader question / search intent: How do I begin a conversation about death with someone I love?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: A gentle structure for mortality conversations that makes room for practical wishes, fear, meaning and silence.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+## Thinking takes energy too: pacing cognitive exertion with chronic fatigue
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/cognitive-exertion-and-pacing-with-chronic-fatigue.html
+- Reader question / search intent: Can mental activity trigger post-exertional malaise, and how can I pace it?
+- Status: Published
+- Publication date: 2026-10-09
+- Research-check date: 2026-10-09
+- Sources: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: How to account for reading, screens, decisions and conversation when post-exertional malaise is not caused by movement alone.
+- Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
