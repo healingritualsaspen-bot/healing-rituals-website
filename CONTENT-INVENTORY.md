@@ -832,3 +832,160 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guides named in article
 - Unique contribution: How to account for reading, screens, decisions and conversation when post-exertional malaise is not caused by movement alone.
 - Follow-up: Recheck source status, reader questions and evidence updates before expanding this angle.
+
+
+# Cornerstone research updates — 2026-10-16
+
+## Guided imagery and emotional change: a closer look at the research
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/guided-imagery-and-emotional-change.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Can sound healing help with stress? What the studies show
+- Category: Sound Healing &amp; Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/sound-healing-stress-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## What research says about Reiki and gentle bodywork
+- Category: Reiki &amp; Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/energy-work-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Guided rest and sleep: what researchers are measuring
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/guided-rest-sleep-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Slow breathing, stress and mood: what the evidence suggests
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/slow-breathing-mood-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Psychedelic-assisted therapy: what clinical studies are finding
+- Category: Plant-Assisted Journeys: Preparation &amp; Integration
+- URL: https://www.healingritualsaspen.com/articles/psychedelic-therapy-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## What stays with us after a retreat? Rest, practice and research
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/wellness-retreat-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Mindfulness and connection: what couples research can tell us
+- Category: Couples Wellness &amp; Reconnection
+- URL: https://www.healingritualsaspen.com/articles/mindfulness-and-relationship-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Mind-body practices and depression: what the evidence supports
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/mind-body-practices-and-depression-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Breathing, meditation and anxiety: reading the research carefully
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/breathing-meditation-and-anxiety-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Meditation, breathing and stress: what changes have researchers measured?
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/meditation-breathing-and-stress-research.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Mindfulness and relationship wellbeing: what couples research suggests
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/mindfulness-and-relationship-research-guide.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Psychedelic trials and end-of-life anxiety: what was actually studied
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/psychedelic-trials-and-end-of-life-anxiety.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+## Mind-body research for chronic fatigue: promise, limits and pacing
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/mind-body-research-for-chronic-fatigue.html
+- Status: Published (substantially updated)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-16
+- Sources: See verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guides named in article
+- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Follow-up: Recheck source status and evidence updates before the next substantive revision.
