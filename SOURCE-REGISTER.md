@@ -469,3 +469,104 @@ Checked: 2026-09-18
 - Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
 - Access: Full source or complete evidence page accessible.
 - Cited by: Thinking takes energy too: pacing cognitive exertion with chronic fatigue
+
+
+# Sources added or rechecked — 2026-10-16
+
+## Holmes EA, Mathews A. Mental imagery in emotion and emotional disorders. Clinical Psychology Review. 2010;30(3):349–362. doi:10.1016/j.cpr.2010.01.001.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20116915/
+- Study/source type, population, findings and limitations: Integrative review; useful for understanding imagery and emotion, but not a clinical trial of Quantum Subconscious Reprogramming.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/guided-imagery-and-emotional-change.html
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes. Health Psychology Review. 2020;14(2):294–324. doi:10.1080/17437199.2019.1627897.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Study/source type, population, findings and limitations: Systematic review and meta-analyses of varied music interventions; does not isolate live sound healing.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/sound-healing-stress-research.html
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: US government evidence overview; reports that effectiveness is not clearly established and the proposed energy field is not scientifically demonstrated.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/energy-work-research.html
+
+## Qaseem A, Kansagara D, Forciea MA, Cooke M, Denberg TD. Management of Chronic Insomnia Disorder in Adults. Annals of Internal Medicine. 2016;165(2):125–133. doi:10.7326/M15-2175.
+- Link: https://pubmed.ncbi.nlm.nih.gov/27136449/
+- Study/source type, population, findings and limitations: Clinical practice guideline recommending CBT-I first; not a study of Guided Deep Rest.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/guided-rest-sleep-research.html
+
+## Fincham GW, Strauss C, Montero-Marin J, Cavanagh K. Effect of breathwork on stress and mental health. Scientific Reports. 2023;13:432. doi:10.1038/s41598-022-27247-y.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36624160/
+- Study/source type, population, findings and limitations: Meta-analysis with heterogeneous practices and generally limited study quality; calls for stronger safety reporting.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/slow-breathing-mood-research.html
+
+## Orsini DK, Wong S, Di Luch S, et al. Blinding Integrity in Psychedelic Randomized Clinical Trials: A Systematic Review. JAMA Psychiatry. 2026;83(7):755–769. doi:10.1001/jamapsychiatry.2026.0255.
+- Link: https://pubmed.ncbi.nlm.nih.gov/41984443/
+- Study/source type, population, findings and limitations: Systematic review of 112 randomized trials; only the abstract was accessible during this research check, and it concerns trial validity rather than treatment efficacy.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Only the abstract was accessible during this research check.
+- Cited by: https://www.healingritualsaspen.com/articles/psychedelic-therapy-research.html
+
+## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+- Link: https://doi.org/10.1186/s12906-017-2078-4
+- Study/source type, population, findings and limitations: Review of heterogeneous bundled retreats; component effects and durability remain uncertain.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/wellness-retreat-research.html
+
+## Gable SL, Reis HT, Impett EA, Asher ER. What do you do when things go right? Journal of Personality and Social Psychology. 2004;87(2):228–245. doi:10.1037/0022-3514.87.2.228.
+- Link: https://pubmed.ncbi.nlm.nih.gov/15301629/
+- Study/source type, population, findings and limitations: Four studies on responses to positive-event sharing; not a couples-treatment trial.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/mindfulness-and-relationship-research.html
+
+## Noetel M, Sanders T, Gallardo-Gómez D, et al. Effect of exercise for depression. BMJ. 2024;384:e075847. doi:10.1136/bmj-2023-075847.
+- Link: https://pubmed.ncbi.nlm.nih.gov/38355154/
+- Study/source type, population, findings and limitations: Network meta-analysis of randomized trials; interventions, certainty and participant needs varied.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/mind-body-practices-and-depression-research.html
+
+## Hoge EA, Bui E, Mete M, et al. Mindfulness-Based Stress Reduction vs Escitalopram for Adults With Anxiety Disorders. JAMA Psychiatry. 2023;80(1):13–21. doi:10.1001/jamapsychiatry.2022.3679.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36350591/
+- Study/source type, population, findings and limitations: Randomized noninferiority trial of a structured eight-week program; not evidence that brief wellness practices replace treatment.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/breathing-meditation-and-anxiety-research.html
+
+## Karabinski T, Haun VC, Nübold A, Wendsche J, Wegge J. Interventions for improving psychological detachment from work. Journal of Occupational Health Psychology. 2021;26(3):224–242.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Study/source type, population, findings and limitations: Meta-analysis of varied interventions with modest average effects; does not address structural workload by itself.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/meditation-breathing-and-stress-research.html
+
+## Fehr R, Gelfand MJ, Nag M. The road to forgiveness. Psychological Bulletin. 2010;136(5):894–914. doi:10.1037/a0019993.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Study/source type, population, findings and limitations: Meta-analysis of correlates; PubMed indexes a 2011 erratum, and findings do not establish when reconciliation is safe.
+- Correction/retraction check: PubMed indexes a 2011 erratum; no retraction notice identified during the 2026-10-16 check.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/mindfulness-and-relationship-research-guide.html
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety. Journal of Anxiety Disorders. 2018;59:64–73. doi:10.1016/j.janxdis.2018.09.004.
+- Link: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Study/source type, population, findings and limitations: Systematic review and meta-analysis of 15 heterogeneous randomized trials; intervention fit and evidence quality varied.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/psychedelic-trials-and-end-of-life-anxiety.html
+
+## National Institute for Health and Care Excellence. ME/CFS: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Clinical guideline recommending individualized energy management and cautioning against fixed-increment graded exercise therapy.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
+- Access: Full source or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/mind-body-research-for-chronic-fatigue.html
