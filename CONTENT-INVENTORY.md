@@ -989,3 +989,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guides named in article
 - Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
 - Follow-up: Recheck source status and evidence updates before the next substantive revision.
+
+
+# Practical guide revisions — 2026-10-23
+
+## How to turn an inner intention into an everyday choice
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/turning-an-intention-into-an-everyday-choice.html
+- Reader question / search intent: How can I carry an intention from a guided journey into daily life?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## When sound feels like too much: choosing a gentler listening experience
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/choosing-sound-when-you-feel-overstimulated.html
+- Reader question / search intent: How can a sound session be adapted when I am sensitive to noise?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Consent and comfort in Reiki and intuitive energy work
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/consent-and-comfort-in-energy-work.html
+- Reader question / search intent: What should consent look like during Reiki or intuitive energy work?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://www.nccih.nih.gov/health/reiki
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## How to practice deep rest without trying to fall asleep
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/daytime-deep-rest-without-chasing-sleep.html
+- Reader question / search intent: Can daytime deep rest be useful even if I stay awake?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## A gentle breath-pacing practice for life’s transitions
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/gentle-breath-pacing-for-transitions.html
+- Reader question / search intent: How can I use comfortable breathing to transition between parts of my day?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Psychedelic integration when the meaning is not immediately clear
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/psychedelic-integration-when-meaning-is-unclear.html
+- Reader question / search intent: What if a psychedelic experience does not have an obvious meaning?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## How to bring a wellness retreat home without recreating the retreat
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/bringing-a-wellness-retreat-home.html
+- Reader question / search intent: How can I sustain one useful part of a retreat after returning home?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://doi.org/10.1186/s12906-017-2078-4
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Listening without fixing: a quieter practice for couples
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/listening-without-fixing-for-couples.html
+- Reader question / search intent: How can couples listen without immediately trying to solve the problem?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://www.nature.com/articles/s41598-020-78919-6
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## When depression drains motivation: begin smaller than you think
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/gentle-practices-when-depression-drains-motivation.html
+- Reader question / search intent: What is a realistic first step when depression makes motivation feel unavailable?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/32628293/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## What to do when anxiety rises during a wellness practice
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/grounding-practices-when-anxiety-rises.html
+- Reader question / search intent: What can I do if a calming practice makes anxiety stronger?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/31450137/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Build a stress-recovery rhythm that fits a real life
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/building-a-realistic-stress-recovery-rhythm.html
+- Reader question / search intent: How can recovery fit into a demanding life without becoming another task?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Before the hard conversation: make room for regulation first
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/pause-before-the-hard-conversation.html
+- Reader question / search intent: How can I prepare for a difficult conversation without avoiding it?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://doi.org/10.1080/03637751.2013.813632
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Making space for mortality anxiety without forcing an answer
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/making-space-for-mortality-anxiety.html
+- Reader question / search intent: How can I make room for fear of death without forcing certainty?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+## Rest without pushing through: a gentler approach to chronic fatigue
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/rest-without-pushing-through-chronic-fatigue.html
+- Reader question / search intent: How can I rest without turning recovery into another push-through plan?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-16
+- Research-check date: 2026-10-23
+- Sources: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Internal links: parent category; Explore the Work; companion research guide named on page
+- Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
+- Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
