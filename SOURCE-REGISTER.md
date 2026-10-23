@@ -570,3 +570,104 @@ Checked: 2026-09-18
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
 - Access: Full source or complete evidence page accessible.
 - Cited by: https://www.healingritualsaspen.com/articles/mind-body-research-for-chronic-fatigue.html
+
+
+# Sources added or rechecked — 2026-10-23
+
+## Gollwitzer PM, Sheeran P. Implementation intentions and goal achievement. Advances in Experimental Social Psychology. 2006;38:69–119.
+- Link: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Study/source type, population, findings and limitations: Meta-analysis of implementation intentions across varied goals; it does not evaluate Healing Rituals or subconscious reprogramming.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/turning-an-intention-into-an-everyday-choice.html
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes. Health Psychology Review. 2020;14(2):294–324.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous music interventions; it does not isolate live sound healing or a specific frequency.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/choosing-sound-when-you-feel-overstimulated.html
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: Government evidence overview; effectiveness for health purposes and the proposed energy field are not scientifically established.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/consent-and-comfort-in-energy-work.html
+
+## Toussaint L, Nguyen QA, Roettger C, et al. Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery. Evidence-Based Complementary and Alternative Medicine. 2021;2021:5924040.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Study/source type, population, findings and limitations: Randomized comparison in 60 healthy undergraduates after one recorded exercise; it measured immediate relaxation, not sleep treatment.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/daytime-deep-rest-without-chasing-sleep.html
+
+## Balban MY, Neri E, Kogon MM, et al. Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine. 2023;4(1):100895.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Study/source type, population, findings and limitations: Remote randomized study of brief practices with short follow-up; it does not establish an ideal method for every person.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/gentle-breath-pacing-for-transitions.html
+
+## Pilecki B, Luoma JB, Bathje GJ, Rhea J, Narloch VF. Ethical and legal issues in psychedelic harm reduction and integration therapy. Harm Reduction Journal. 2021;18:40.
+- Link: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Study/source type, population, findings and limitations: Ethics and practice analysis rather than an efficacy trial; addresses scope and safety boundaries.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/psychedelic-integration-when-meaning-is-unclear.html
+
+## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526.
+- Link: https://doi.org/10.1186/s12906-017-2078-4
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreats; component effects and durability cannot be isolated.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/bringing-a-wellness-retreat-home.html
+
+## Karremans JC, Schellekens MPJ, Kappen G, et al. Comparing mindfulness versus relaxation on romantic relationship wellbeing. Scientific Reports. 2020;10:21696.
+- Link: https://www.nature.com/articles/s41598-020-78919-6
+- Study/source type, population, findings and limitations: Brief randomized intervention research; not couples therapy and not applicable as a safety strategy in abusive relationships.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/listening-without-fixing-for-couples.html
+
+## Uphoff E, Ekers D, Robertson L, et al. Behavioural activation therapy for depression in adults. Cochrane Database of Systematic Reviews. 2020;7:CD013305.
+- Link: https://pubmed.ncbi.nlm.nih.gov/32628293/
+- Study/source type, population, findings and limitations: Systematic review of structured behavioral activation therapy; evidence certainty varied and it does not evaluate wellness sessions.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/gentle-practices-when-depression-drains-motivation.html
+
+## Kim H, Newman MG. The paradox of relaxation training: relaxation induced anxiety and negative contrast sensitivity. Journal of Affective Disorders. 2019;259:190–198.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31450137/
+- Study/source type, population, findings and limitations: Controlled laboratory research on relaxation-induced anxiety and contrast avoidance; not a trial of Healing Rituals or a general treatment recommendation.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/grounding-practices-when-anxiety-rises.html
+
+## Karabinski T, Haun VC, Nübold A, Wendsche J, Wegge J. Interventions for improving psychological detachment from work. Journal of Occupational Health Psychology. 2021;26(3):224–242.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Study/source type, population, findings and limitations: Meta-analysis of heterogeneous interventions with modest effects; personal recovery practices cannot solve structural workload.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/building-a-realistic-stress-recovery-rhythm.html
+
+## Schrodt P, Witt PL, Shimkowski JR. A meta-analytical review of the demand/withdraw pattern. Communication Monographs. 2014;81(1):28–58.
+- Link: https://doi.org/10.1080/03637751.2013.813632
+- Study/source type, population, findings and limitations: Meta-analysis of relationship communication studies; associations do not determine cause or provide a safety plan for abusive relationships.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/pause-before-the-hard-conversation.html
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety. Journal of Anxiety Disorders. 2018;59:64–73.
+- Link: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Study/source type, population, findings and limitations: Systematic review and meta-analysis of 15 heterogeneous randomized trials; intervention fit and study quality varied.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/making-space-for-mortality-anxiety.html
+
+## National Institute for Health and Care Excellence. ME/CFS: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Evidence-based clinical guideline; energy management is individualized and is not a cure or a fixed-increment exercise program.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
+- Access: Full source, full official guidance, or complete evidence page accessible.
+- Cited by: https://www.healingritualsaspen.com/articles/rest-without-pushing-through-chronic-fatigue.html
