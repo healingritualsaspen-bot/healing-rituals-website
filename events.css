@@ -97,3 +97,24 @@ body{margin:0;background:var(--ivory);color:var(--ink);font-family:"Montserrat",
 .coming-collage .collage-rest{object-position:center 68%}
 .coming-collage:after{pointer-events:none}
 @media(max-width:520px){.coming-collage{gap:3px}.coming-collage .coming-badge{right:18px;top:18px}}
+
+
+/* Keep all four event photographs visible together beside the summary. */
+@media(min-width:851px){
+  .coming{align-items:start}
+  .coming-collage{
+    aspect-ratio:1 / 1;
+    min-height:0;
+    height:auto;
+    align-self:start;
+    position:sticky;
+    top:0;
+  }
+}
+@media(max-width:850px){
+  .coming-collage{
+    aspect-ratio:1 / 1;
+    min-height:0;
+    height:auto;
+  }
+}
