@@ -1160,3 +1160,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; companion research guide named on page
 - Unique contribution: Deepens an existing practical guide with evidence boundaries, real-life application and proportionate safety guidance without adding a competing URL.
 - Follow-up questions: Recheck the source record and reader needs before the next substantive revision.
+
+
+# Reader-centered guide revisions — 2026-10-30
+
+## Choosing an intention that feels true—not artificially positive
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/values-based-intentions-without-forced-positivity.html
+- Reader question / search intent: How can I choose an intention that feels believable rather than artificially positive?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Music and sleep: a softer evening ritual, not a guaranteed remedy
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/music-listening-insomnia-and-evening-rest.html
+- Reader question / search intent: Can music support evening rest without becoming another sleep promise?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Touch, no touch and changing your mind during energy work
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/touch-no-touch-and-consent-in-energy-work.html
+- Reader question / search intent: Can I change my mind about touch during an energy-work session?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## When your mind wanders during Guided Deep Rest
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/mind-wandering-during-guided-deep-rest.html
+- Reader question / search intent: Does Guided Deep Rest still count when my mind keeps wandering?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Breath awareness without chasing a wearable score
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/breath-awareness-without-wearable-scores.html
+- Reader question / search intent: Do I need HRV data to know whether gentle breathwork is useful?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Good integration includes boundaries, confidentiality and referral
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/ethical-boundaries-in-psychedelic-integration.html
+- Reader question / search intent: What ethical boundaries should I expect in psychedelic integration support?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Private time and shared time: finding the right retreat rhythm
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/private-and-shared-time-in-a-wellness-retreat.html
+- Reader question / search intent: How much private and shared time should a wellness retreat include?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Quiet connection: being together without forcing a conversation
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/quiet-connection-without-forcing-disclosure.html
+- Reader question / search intent: Can couples reconnect without immediately talking through everything?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Social connection and depression: support without forcing yourself to be social
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/social-connection-and-depression-without-forcing-socializing.html
+- Reader question / search intent: How can connection support depression when socializing feels exhausting?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Uncertainty, anxiety and the urge to get one more answer
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/uncertainty-anxiety-and-the-urge-for-reassurance.html
+- Reader question / search intent: How can I respond to reassurance seeking without dismissing real concerns?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Ending the workday when your mind is still at work
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/ending-the-workday-and-psychological-detachment.html
+- Reader question / search intent: How can I stop carrying work mentally after the workday ends?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## After the apology: letting trust rebuild more slowly than words
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/boundaries-after-an-apology-and-before-trust.html
+- Reader question / search intent: What boundaries are reasonable after someone apologizes?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Talking with someone you love about death without forcing reassurance
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/talking-with-loved-ones-about-mortality.html
+- Reader question / search intent: How do I begin a conversation about mortality without forcing reassurance?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+## Thinking takes energy too: pacing cognitive exertion with chronic fatigue
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/cognitive-exertion-and-pacing-with-chronic-fatigue.html
+- Reader question / search intent: Can thinking and sensory input contribute to post-exertional malaise?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-10-30
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and emerging reader needs before the next revision.
