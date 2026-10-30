@@ -671,3 +671,104 @@ Checked: 2026-09-18
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
 - Access: Full source, full official guidance, or complete evidence page accessible.
 - Cited by: https://www.healingritualsaspen.com/articles/rest-without-pushing-through-chronic-fatigue.html
+
+
+# Sources rechecked for reader-centered revisions — 2026-10-30
+
+## Epton T, Harris PR, Kane R, van Koningsbruggen GM, Sheeran P. The impact of self-affirmation on health-behavior change: a meta-analysis. Health Psychology. 2015;34(3):187–196. doi:10.1037/hea0000116.
+- Link: https://pubmed.ncbi.nlm.nih.gov/25133846/
+- Study/source type, population, findings and limitations: Meta-analysis of self-affirmation exercises paired with health messages; effects were small and the research did not study Healing Rituals or prove that affirmations reprogram the subconscious. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/values-based-intentions-without-forced-positivity.html
+
+## Jespersen KV, Pando-Naude V, Koenig J, Jennum P, Vuust P. Listening to music for insomnia in adults. Cochrane Database of Systematic Reviews. 2022;8:CD010459. doi:10.1002/14651858.CD010459.pub3.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36000763/
+- Study/source type, population, findings and limitations: Systematic review of 13 studies with 1,007 adults; evidence quality ranged from moderate to very low, interventions varied, and findings for objective sleep measures were uncertain. Full text or a complete evidence page was accessible. No correction or retraction notice was identified during the 2026-09-25 research check.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/music-listening-insomnia-and-evening-rest.html
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study/source type, population, findings and limitations: US government evidence overview reporting that Reiki has not been clearly shown effective for a health-related purpose and that the proposed energy field is not scientifically established. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/touch-no-touch-and-consent-in-energy-work.html
+
+## Toussaint L, Nguyen QA, Roettger C, et al. Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery in Promoting Psychological and Physiological States of Relaxation. Evidence-Based Complementary and Alternative Medicine. 2021;2021:5924040. doi:10.1155/2021/5924040.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Study/source type, population, findings and limitations: Randomized comparison in 60 healthy undergraduates after one recorded exercise; it measured immediate relaxation, not sleep, clinical treatment or Healing Rituals’ offering. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/mind-wandering-during-guided-deep-rest.html
+
+## Lehrer PM, Gevirtz R. Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology. 2014;5:756. doi:10.3389/fpsyg.2014.00756.
+- Link: https://pubmed.ncbi.nlm.nih.gov/25101026/
+- Study/source type, population, findings and limitations: Mechanistic review of HRV biofeedback, which uses measurement and individualized resonance-frequency training; it is not evidence that consumer wearable scores validate a breathing practice. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/breath-awareness-without-wearable-scores.html
+
+## Pilecki B, Luoma JB, Bathje GJ, Rhea J, Narloch VF. Ethical and legal issues in psychedelic harm reduction and integration therapy. Harm Reduction Journal. 2021;18:40. doi:10.1186/s12954-021-00489-1.
+- Link: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Study/source type, population, findings and limitations: Ethics and practice analysis rather than an outcome trial; it addresses scope, competence and legality but does not prove integration therapy effectiveness. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/ethical-boundaries-in-psychedelic-integration.html
+
+## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+- Link: https://doi.org/10.1186/s12906-017-2078-4
+- Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreat programs with selection bias and limited follow-up; it cannot identify an ideal amount of solitude or guided time. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/private-and-shared-time-in-a-wellness-retreat.html
+
+## Karremans JC, Schellekens MPJ, Kappen G, et al. Comparing the effects of a mindfulness versus relaxation intervention on romantic relationship wellbeing. Scientific Reports. 2020;10:21696. doi:10.1038/s41598-020-78919-6.
+- Link: https://www.nature.com/articles/s41598-020-78919-6
+- Study/source type, population, findings and limitations: Brief randomized intervention research examining relationship and conflict-related outcomes; it was not couples therapy and does not apply to unsafe relationships. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/quiet-connection-without-forcing-disclosure.html
+
+## Vazquez Alvarez C, Mirza L, Das-Munshi J, Oswald TK. Social connection interventions and depression in young adults: a systematic review and meta-analysis. Social Psychiatry and Psychiatric Epidemiology. 2025;60(3):549–562. doi:10.1007/s00127-024-02722-1.
+- Link: https://pubmed.ncbi.nlm.nih.gov/39150513/
+- Study/source type, population, findings and limitations: Systematic review and meta-analysis focused on young adults; interventions and measures varied, evidence quality was limited, and results do not generalize to every age or severity. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/social-connection-and-depression-without-forcing-socializing.html
+
+## Miller ML, McGuire JF. Targeting intolerance of uncertainty in treatment: a meta-analysis of therapeutic effects, treatment moderators, and underlying mechanisms. Journal of Affective Disorders. 2023;341:283–295. doi:10.1016/j.jad.2023.08.132.
+- Link: https://pubmed.ncbi.nlm.nih.gov/37657623/
+- Study/source type, population, findings and limitations: Meta-analysis of psychological treatments targeting intolerance of uncertainty; it concerns structured therapy, not wellness practices or advice to simply accept uncertainty. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/uncertainty-anxiety-and-the-urge-for-reassurance.html
+
+## Karabinski T, Haun VC, Nübold A, Wendsche J, Wegge J. Interventions for improving psychological detachment from work: a meta-analysis. Journal of Occupational Health Psychology. 2021;26(3):224–242.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Study/source type, population, findings and limitations: Meta-analysis of 30 studies and 34 interventions; average effects were modest, intervention types varied and detachment cannot solve excessive workload or unsafe employment. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/ending-the-workday-and-psychological-detachment.html
+
+## Fehr R, Gelfand MJ, Nag M. The road to forgiveness: a meta-analytic synthesis of its situational and dispositional correlates. Psychological Bulletin. 2010;136(5):894–914. doi:10.1037/a0019993.
+- Link: https://pubmed.ncbi.nlm.nih.gov/20804242/
+- Study/source type, population, findings and limitations: Meta-analysis of correlates across 175 studies; it does not prove that apology causes forgiveness. PubMed indexes a 2011 erratum; no retraction was identified. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/boundaries-after-an-apology-and-before-trust.html
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety: a meta-analysis and systematic review of randomised controlled trials. Journal of Anxiety Disorders. 2018;59:64–73. doi:10.1016/j.janxdis.2018.09.004.
+- Link: https://pubmed.ncbi.nlm.nih.gov/30308474/
+- Study/source type, population, findings and limitations: Systematic review of 15 heterogeneous randomized trials; it does not establish that an informal family conversation reduces death anxiety or replaces palliative and mental-health care. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/talking-with-loved-ones-about-mortality.html
+
+## National Institute for Health and Care Excellence. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#energy-management
+- Study/source type, population, findings and limitations: Evidence-based clinical guideline, not a trial; energy management is individualized and cannot guarantee symptom improvement. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
+- Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
+- Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
+- Cited by: https://www.healingritualsaspen.com/articles/cognitive-exertion-and-pacing-with-chronic-fatigue.html
