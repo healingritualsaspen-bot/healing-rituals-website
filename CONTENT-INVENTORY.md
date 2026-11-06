@@ -1331,3 +1331,174 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guide named on page
 - Unique contribution: Adds evidence interpretation, real-life follow-through and proportionate safety guidance without creating a competing URL.
 - Follow-up questions: Recheck source status and emerging reader needs before the next revision.
+
+
+# Sustaining-change guide revisions — 2026-11-06
+
+## Why an inner image can feel emotionally real—and how to use that carefully
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/mental-imagery-emotion-and-everyday-choice.html
+- Reader question / search intent: How can emotional imagery be translated into a realistic everyday response?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## After the final note: why silence can be part of a sound experience
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/silence-after-sound-and-gentle-integration.html
+- Reader question / search intent: Why can silence after a sound journey feel important?
+- Status: Published (substantially revised)
+- Original publication date: 2026-10-09
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Choosing energy work with clear consent and grounded expectations
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/choosing-an-energy-work-practitioner-with-discernment.html
+- Reader question / search intent: How can I choose an energy-work practitioner with grounded expectations?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Letting effort soften: what progressive relaxation teaches about deep rest
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/progressive-relaxation-and-deep-rest-without-striving.html
+- Reader question / search intent: What can progressive relaxation teach us about resting without effort?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Breathwork research supports a gentler question: what feels sustainable?
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/breathwork-evidence-comfort-over-intensity.html
+- Reader question / search intent: Why should comfort guide breathwork more than intensity?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-18
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Set, setting and support: what psychedelic preparation can—and cannot—control
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/set-setting-and-psychedelic-preparation-research.html
+- Reader question / search intent: What can preparation influence in a psychedelic experience—and what remains unpredictable?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Nature, attention and spaciousness: designing a retreat without overfilling it
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/nature-attention-and-private-retreat-design.html
+- Reader question / search intent: How can nature support a retreat without filling the schedule?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Feeling understood: the small moments that make connection more believable
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/partner-responsiveness-and-small-moments-of-connection.html
+- Reader question / search intent: What helps a partner feel understood in an ordinary moment?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Movement and depression: supportive evidence without the “just exercise” message
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/movement-depression-evidence-and-gentle-choice.html
+- Reader question / search intent: How can movement support depression without becoming a “just exercise” message?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Mindfulness and anxiety: what a comparison with medication actually showed
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/mindfulness-anxiety-trial-and-realistic-expectations.html
+- Reader question / search intent: What did the mindfulness-versus-medication anxiety trial actually show?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Self-compassion under stress: support without another self-improvement project
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/self-compassion-stress-without-self-improvement-pressure.html
+- Reader question / search intent: Can self-compassion support stress without becoming another task to perform?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## When one person pursues and the other retreats: interrupting the demand–withdraw loop
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/demand-withdraw-pattern-and-safer-conversations.html
+- Reader question / search intent: How can couples interrupt a demand–withdraw pattern without assigning blame?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## Dignity, legacy and fear of death: what one structured therapy studied
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/dignity-therapy-end-of-life-research-and-legacy.html
+- Reader question / search intent: What did dignity-therapy research study, and how might legacy conversations help?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
+
+## An energy diary without quotas: noticing patterns in chronic fatigue
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/energy-diary-chronic-fatigue-without-fixed-goals.html
+- Reader question / search intent: How can an energy diary help without turning pacing into quotas?
+- Status: Published (substantially revised)
+- Original publication date: 2026-09-25
+- Research-check date: 2026-11-06
+- Sources: Verified source list on page and SOURCE-REGISTER.md
+- Internal links: parent category; Explore the Work; related guide named on page
+- Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
+- Follow-up questions: Recheck source status and reader needs before the next revision.
