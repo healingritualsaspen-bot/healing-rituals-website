@@ -513,7 +513,7 @@ Checked: 2026-09-18
 - Study/source type, population, findings and limitations: Systematic review of 112 randomized trials; only the abstract was accessible during this research check, and it concerns trial validity rather than treatment efficacy.
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
 - Access: Only the abstract was accessible during this research check.
-- Cited by: https://www.healingritualsaspen.com/articles/psychedelic-therapy-research.html
+- Cited by: https://www.healingritualsaspen.com/aspens-psychedelic-research-center.html
 
 ## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4

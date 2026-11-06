@@ -891,15 +891,15 @@ Research check: 2026-09-18
 - Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
 - Follow-up: Recheck source status and evidence updates before the next substantive revision.
 
-## Psychedelic-assisted therapy: what clinical studies are finding
+## Aspen’s Psychedelic Research & Resource Center by Healing Rituals
 - Category: Plant-Assisted Journeys: Preparation &amp; Integration
-- URL: https://www.healingritualsaspen.com/articles/psychedelic-therapy-research.html
+- URL: https://www.healingritualsaspen.com/aspens-psychedelic-research-center.html
 - Status: Published (substantially updated)
 - Original publication date: 2026-09-16
-- Research-check date: 2026-10-16
+- Research-check date: 2026-11-06
 - Sources: See verified source list on page and SOURCE-REGISTER.md
-- Internal links: parent category; Explore the Work; related guides named in article
-- Unique contribution: Expanded the cornerstone page with a clearer evidence boundary, real-life application and proportionate safety guidance without creating a competing URL.
+- Internal links: homepage; parent category; Explore the Work; preparation, integration, ethics, end-of-life and emerging-research guides
+- Unique contribution: Establishes Healing Rituals’ distinct Aspen research and integration hub, with a stage-based resource library, local Colorado context, clear scope and evidence boundaries.
 - Follow-up: Recheck source status and evidence updates before the next substantive revision.
 
 ## What stays with us after a retreat? Rest, practice and research
