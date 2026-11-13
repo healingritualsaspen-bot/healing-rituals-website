@@ -1502,3 +1502,176 @@ Research check: 2026-09-18
 - Internal links: parent category; Explore the Work; related guide named on page
 - Unique contribution: Adds a sustaining-change layer, clearer evidence boundaries and proportionate safety guidance without creating a competing URL.
 - Follow-up questions: Recheck source status and reader needs before the next revision.
+
+
+# Decision and fit revisions — 2026-11-13
+
+These revisions deepen existing pages rather than create competing URLs. Original publication dates are preserved; research and source status were rechecked on 2026-11-13.
+
+## When you know the pattern but still feel caught in it
+- Category: Quantum Subconscious Reprogramming
+- URL: https://www.healingritualsaspen.com/articles/working-with-self-critical-patterns.html
+- Reader question / search intent: How can insight about a self-critical pattern become one usable response in daily life?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Internal links: parent service page; Explore the Work; guided imagery research
+- Unique contribution: Translates reflection into a specific if–then choice without claiming that planning research validates Lauren’s branded process.
+- Follow-up: Consider a future article on setbacks and self-compassion without duplicating the existing self-compassion guide.
+
+## What to expect from your first sound healing session
+- Category: Sound Healing & Vibrational Medicine
+- URL: https://www.healingritualsaspen.com/articles/first-private-sound-healing-session.html
+- Reader question / search intent: How can a first sound session preserve comfort, consent and sensory choice?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/32507429/
+- Internal links: parent service page; Explore the Work; sound-healing research
+- Unique contribution: Adds a practical stop rule and places singing-bowl evidence within its small, methodologically limited base.
+- Follow-up: Recheck for stronger controlled singing-bowl trials before adding outcome claims.
+
+## Reiki, polarity and craniosacral work: how the experiences differ
+- Category: Reiki & Intuitive Energy Work
+- URL: https://www.healingritualsaspen.com/articles/reiki-polarity-craniosacral-differences.html
+- Reader question / search intent: Which distinctions matter when choosing among gentle energy-work experiences?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://www.nccih.nih.gov/health/reiki
+- Internal links: parent service page; Explore the Work; energy-work research
+- Unique contribution: Separates preference and spiritual meaning from treatment claims and licensed clinical scope.
+- Follow-up: Monitor authoritative updates on Reiki and craniosacral research separately.
+
+## A gentler way to rest when your mind will not switch off
+- Category: Guided Deep Rest
+- URL: https://www.healingritualsaspen.com/articles/guided-rest-when-mind-wont-switch-off.html
+- Reader question / search intent: What can I do when imagery or inward attention feels like more effort?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Internal links: parent service page; Explore the Work; guided-rest research
+- Unique contribution: Offers multiple low-effort anchors while clearly limiting a small immediate-state study.
+- Follow-up: Revisit if stronger comparative research on passive guided-rest methods appears.
+
+## Gentle breathwork for the moments between things
+- Category: Gentle Breathwork
+- URL: https://www.healingritualsaspen.com/articles/gentle-breathwork-for-everyday-stress.html
+- Reader question / search intent: How can a brief breath practice be tested without forcing it?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Internal links: parent service page; Explore the Work; slow-breathing research
+- Unique contribution: Frames breath practice as optional and observable, not an intensity challenge or universal prescription.
+- Follow-up: Keep safety language aligned with future breathwork adverse-event reporting.
+
+## Before and after a plant-assisted journey: questions worth asking
+- Category: Plant-Assisted Journeys
+- URL: https://www.healingritualsaspen.com/articles/preparation-and-integration-questions.html
+- Reader question / search intent: Which roles, boundaries and support contacts should be clear before and after an experience?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Internal links: parent service page; Explore the Work; integration research
+- Unique contribution: Adds a support map without giving dosing, access or use instructions.
+- Follow-up: Monitor Colorado official guidance separately without turning this article into a provider directory.
+
+## Planning a private wellness retreat that leaves room to breathe
+- Category: Private Wellness Retreats
+- URL: https://www.healingritualsaspen.com/articles/planning-private-wellness-retreat-aspen.html
+- Reader question / search intent: What should intentionally be left out of a restorative private retreat schedule?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/29316909/
+- Internal links: parent service page; Explore the Work; retreat research
+- Unique contribution: Adds an exclusion-list planning tool and corrects the retreat-review citation metadata.
+- Follow-up: Seek research that reports adverse events and component-level retreat effects.
+
+## Shared rest for couples: connection without another conversation to manage
+- Category: Couples Wellness & Reconnection
+- URL: https://www.healingritualsaspen.com/articles/couples-shared-rest-and-connection.html
+- Reader question / search intent: How can couples share quiet without making it a test or forced disclosure?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-16
+- Research-check date: 2026-11-13
+- Sources: https://www.nature.com/articles/s41598-020-78919-6
+- Internal links: parent service page; Explore the Work; relationship research
+- Unique contribution: Defines consent and purpose around shared rest while limiting the evidence to the intervention studied.
+- Follow-up: Maintain the distinction between wellness connection and couples therapy.
+
+## Depression and small steps: what behavioral activation actually means
+- Category: Depression
+- URL: https://www.healingritualsaspen.com/articles/behavioral-activation-depression-small-steps.html
+- Reader question / search intent: How can an activity be made smaller without reducing depression care to “try harder”?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://doi.org/10.1002/14651858.CD013305.pub2
+- Internal links: Depression overview; Explore the Work; gentle-practices guide
+- Unique contribution: Adds a graded action ladder and preserves behavioural activation as a structured psychotherapy.
+- Follow-up: Recheck newer systematic reviews and longer-term outcomes.
+
+## Relaxation skills and anxiety: support, not a demand to calm down
+- Category: Anxiety
+- URL: https://www.healingritualsaspen.com/articles/relaxation-skills-anxiety-when-they-help.html
+- Reader question / search intent: How can I preserve choice if inward attention makes anxiety worse?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/18518981/
+- Internal links: Anxiety overview; Explore the Work; grounding guide
+- Unique contribution: Adds an exit-route plan and explains heterogeneity in relaxation evidence.
+- Follow-up: Monitor updated reviews that report relaxation-induced anxiety and adverse effects.
+
+## Recovery is part of the stress cycle—not a reward for finishing everything
+- Category: Stress
+- URL: https://www.healingritualsaspen.com/articles/recovery-is-part-of-the-stress-cycle.html
+- Reader question / search intent: Which recovery cue is realistic enough to use on a demanding day?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Internal links: Stress overview; Explore the Work; recovery-rhythm guide
+- Unique contribution: Uses friction rather than novelty to choose a recovery cue and keeps structural stress in view.
+- Follow-up: Revisit when longer-term music-intervention evidence becomes available.
+
+## Regulation before repair: preparing for a conversation without avoiding it
+- Category: Relational Issues
+- URL: https://www.healingritualsaspen.com/articles/regulation-before-relationship-repair.html
+- Reader question / search intent: What makes a pause clear enough to support return rather than avoidance?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://www.nature.com/articles/s41598-020-78919-6
+- Internal links: Relational Issues overview; Explore the Work; hard-conversation guide
+- Unique contribution: Adds a four-part pause agreement and preserves specialized safety guidance.
+- Follow-up: Keep violence and coercive-control guidance prominent in future relationship content.
+
+## Fear of death and the search for meaning: what supportive research actually studied
+- Category: Fear of Death
+- URL: https://www.healingritualsaspen.com/articles/meaning-centered-support-and-fear-of-death.html
+- Reader question / search intent: Which kind of support fits the particular fear or existential question I am facing?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://ascopubs.org/doi/10.1200/JCO.2014.57.2198
+- Internal links: Fear of Death overview; Explore the Work; mortality-anxiety guide
+- Unique contribution: Sorts medical, psychological, spiritual and palliative support lanes while reporting a materially mixed anxiety result.
+- Follow-up: Recheck advanced-cancer meaning-centered therapy and end-of-life evidence without generalizing across populations.
+
+## Pacing with chronic fatigue: why “push through” can be the wrong message
+- Category: Chronic Fatigue
+- URL: https://www.healingritualsaspen.com/articles/pacing-chronic-fatigue-and-post-exertional-malaise.html
+- Reader question / search intent: How can delayed post-exertional worsening be included in activity and rest decisions?
+- Status: Published; substantially revised 2026-11-13
+- Publication date: 2026-09-18
+- Research-check date: 2026-11-13
+- Sources: https://www.cdc.gov/me-cfs/management/; https://www.nice.org.uk/guidance/ng206
+- Internal links: Chronic Fatigue overview; Explore the Work; rest-without-pushing guide
+- Unique contribution: Adds a 12–48-hour review window and counts cognitive, social and sensory demand alongside physical activity.
+- Follow-up: Recheck CDC and NICE guidance dates and wording at each future revision.

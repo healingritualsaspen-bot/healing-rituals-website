@@ -37,7 +37,7 @@ Checked: 2026-09-18
 - Study/source type and limitations: Ethics/legal analysis and practice model, not an outcome trial of integration.
 - Cited by: Psychedelic integration when the meaning is not immediately clear
 
-## Cohen M et al. The health impact of residential retreats: a systematic review. BMC Complementary Medicine and Therapies. 2017;17:526.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type and limitations: Review of heterogeneous retreat programs; selection bias, varied interventions and limited long-term follow-up constrain conclusions.
 - Cited by: How to bring a wellness retreat home without recreating the retreat
@@ -118,7 +118,7 @@ Checked: 2026-09-18
 - Access: Full source or full evidence page accessible.
 - Cited by: Integration is more than interpreting the experience
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Systematic review of heterogeneous residential retreat programs. Selection bias, bundled interventions and limited long-term follow-up prevent attributing results to a particular component. Full text was accessible.
 - Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-09-18.
@@ -313,7 +313,7 @@ Checked: 2026-09-18
 - Access: Full source or full evidence page accessible.
 - Cited by: Why expectancy makes psychedelic research unusually difficult to interpret
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Systematic review of heterogeneous residential programs; bundled activities, self-selection and limited follow-up prevent conclusions about which retreat components caused reported changes.
 - Correction/retraction check: No notice identified on the journal, PubMed, government or guideline record checked 2026-10-02.
@@ -414,7 +414,7 @@ Checked: 2026-09-18
 - Access: Full source or complete evidence page accessible.
 - Cited by: Good integration includes boundaries, confidentiality and referral
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreat programs with selection bias and limited follow-up; it cannot identify an ideal amount of solitude or guided time.
 - Correction/retraction check: Checked 2026-10-09; any identified notice is stated in the limitation above.
@@ -515,7 +515,7 @@ Checked: 2026-09-18
 - Access: Only the abstract was accessible during this research check.
 - Cited by: https://www.healingritualsaspen.com/aspens-psychedelic-research-center.html
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Review of heterogeneous bundled retreats; component effects and durability remain uncertain.
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-16; no correction or retraction notice identified.
@@ -616,7 +616,7 @@ Checked: 2026-09-18
 - Access: Full source, full official guidance, or complete evidence page accessible.
 - Cited by: https://www.healingritualsaspen.com/articles/psychedelic-integration-when-meaning-is-unclear.html
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreats; component effects and durability cannot be isolated.
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-23; no correction or retraction notice identified unless stated above.
@@ -717,7 +717,7 @@ Checked: 2026-09-18
 - Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
 - Cited by: https://www.healingritualsaspen.com/articles/ethical-boundaries-in-psychedelic-integration.html
 
-## Cohen M, Elliott F, Oates L, Schembri A, Mantri N. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2017;17:526. doi:10.1186/s12906-017-2078-4.
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
 - Link: https://doi.org/10.1186/s12906-017-2078-4
 - Study/source type, population, findings and limitations: Systematic review of heterogeneous bundled retreat programs with selection bias and limited follow-up; it cannot identify an ideal amount of solitude or guided time. Full text or a complete evidence page was accessible. Correction and retraction status was checked 2026-10-09; any identified notice is stated above.
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-10-30; any identified notice is stated in the article.
@@ -873,3 +873,90 @@ Checked: 2026-09-18
 - Correction/retraction check: Publisher, PubMed, government or guideline record reviewed 2026-11-06; any identified notice is stated in the article.
 - Access: Full source, official guidance or complete evidence page accessible unless otherwise noted.
 - Cited by: https://www.healingritualsaspen.com/articles/energy-diary-chronic-fatigue-without-fixed-goals.html
+
+
+# Sources rechecked for decision and fit revisions — 2026-11-13
+
+## Gollwitzer PM, Sheeran P. Implementation Intentions and Goal Achievement: A Meta-analysis of Effects and Processes. Advances in Experimental Social Psychology. 2006;38:69–119. doi:10.1016/S0065-2601(06)38002-1.
+- Link: https://doi.org/10.1016/S0065-2601(06)38002-1
+- Study type, population, findings and limitations: Meta-analysis of 94 independent tests across varied goal domains. It examined if–then planning, not Healing Rituals’ branded process or treatment of self-criticism.
+- Access/status check: Journal record and full manuscript accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: When you know the pattern but still feel caught in it
+
+## Stanhope J, Weinstein P. The human health effects of singing bowls: a systematic review. Complementary Therapies in Medicine. 2020;51:102412. doi:10.1016/j.ctim.2020.102412.
+- Link: https://pubmed.ncbi.nlm.nih.gov/32507429/
+- Study type, population, findings and limitations: Systematic review with four eligible studies, including clinical and nonclinical populations. Few studies, weak designs and risk of bias prevented a recommendation.
+- Access/status check: PubMed and journal record accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: What to expect from your first sound healing session
+
+## National Center for Complementary and Integrative Health. Reiki. Updated 2022.
+- Link: https://www.nccih.nih.gov/health/reiki
+- Study type, population, findings and limitations: US government evidence overview; research quality and results are inconsistent, Reiki is not clearly shown effective for health purposes, and the proposed energy field is not scientifically established.
+- Access/status check: Full page accessible on 2026-11-13.
+- Cited by: Reiki, polarity and craniosacral work: how the experiences differ
+
+## Toussaint L, Nguyen QA, Roettger C, et al. Effectiveness of Progressive Muscle Relaxation, Deep Breathing, and Guided Imagery in Promoting Psychological and Physiological States of Relaxation. Evidence-Based Complementary and Alternative Medicine. 2021;2021:5924040. doi:10.1155/2021/5924040.
+- Link: https://pubmed.ncbi.nlm.nih.gov/34306146/
+- Study type, population, findings and limitations: Randomized head-to-head study of 60 healthy undergraduates after one recorded 20-minute exercise; immediate relaxation outcomes do not establish insomnia treatment or effects of Healing Rituals’ service.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: A gentler way to rest when your mind will not switch off
+
+## Balban MY, Neri E, Kogon MM, et al. Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine. 2023;4(1):100895. doi:10.1016/j.xcrm.2022.100895.
+- Link: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Study type, population, findings and limitations: Remote randomized study comparing three daily five-minute breathing exercises with mindfulness meditation over 28 days; mainly short-term outcomes and not a test of all breathing practices or populations.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Gentle breathwork for the moments between things
+
+## Pilecki B, Luoma JB, Bathje GJ, Rhea J, Narloch VF. Ethical and legal issues in psychedelic harm reduction and integration therapy. Harm Reduction Journal. 2021;18:40. doi:10.1186/s12954-021-00489-1.
+- Link: https://pubmed.ncbi.nlm.nih.gov/33827588/
+- Study type, population, findings and limitations: Ethics and practice analysis, not an outcome trial; supports scope, legality and harm-reduction principles without proving clinical effectiveness.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Before and after a plant-assisted journey: questions worth asking
+
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
+- Link: https://pubmed.ncbi.nlm.nih.gov/29316909/
+- Study type, population, findings and limitations: Systematic review of 23 residential-retreat studies; heterogeneous programs, small samples, limited follow-up and absent adverse-event reporting prevent causal or component-level conclusions.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13. Earlier register entries paired this DOI with a different observational study’s authors; corrected throughout the site in this revision.
+- Cited by: Planning a private wellness retreat that leaves room to breathe; other retreat articles using this review
+
+## Karremans JC, Kappen G, Schellekens MPJ, et al. Comparing the effects of a mindfulness versus relaxation intervention on romantic relationship wellbeing. Scientific Reports. 2020;10:21696. doi:10.1038/s41598-020-78919-6.
+- Link: https://www.nature.com/articles/s41598-020-78919-6
+- Study type, population, findings and limitations: Two-week guided mindfulness and relaxation interventions for romantically involved individuals. Both conditions changed relationship-wellbeing measures, but groups did not significantly differ; not couples therapy.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Shared rest for couples; Regulation before repair
+
+## Uphoff E, Ekers D, Robertson L, et al. Behavioural activation therapy for depression in adults. Cochrane Database of Systematic Reviews. 2020;7:CD013305. doi:10.1002/14651858.CD013305.pub2.
+- Link: https://doi.org/10.1002/14651858.CD013305.pub2
+- Study type, population, findings and limitations: Systematic review of 53 studies with 5,495 adults; evidence was mostly low to moderate certainty and largely short term. Behavioural activation is a structured psychotherapy.
+- Access/status check: Full review record and abstract accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Depression and small steps: what behavioral activation actually means
+
+## Manzoni GM, Pagnini F, Castelnuovo G, Molinari E. Relaxation training for anxiety: a ten-years systematic review with meta-analysis. BMC Psychiatry. 2008;8:41. doi:10.1186/1471-244X-8-41.
+- Link: https://pubmed.ncbi.nlm.nih.gov/18518981/
+- Study type, population, findings and limitations: Meta-analysis of 27 varied studies; results were heterogeneous and effects were larger among volunteers than clinical patients.
+- Access/status check: Full text accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Relaxation skills and anxiety
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses. Health Psychology Review. 2020;14(2):294–324. doi:10.1080/17437199.2019.1627897.
+- Link: https://pubmed.ncbi.nlm.nih.gov/31167611/
+- Study type, population, findings and limitations: Meta-analyses of 104 randomized trials across varied populations, interventions and outcome measures; heterogeneity limits translation to one cue or sound-healing format.
+- Access/status check: PubMed and journal records accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Recovery is part of the stress cycle
+
+## Breitbart W, Rosenfeld B, Pessin H, et al. Meaning-Centered Group Psychotherapy: An Effective Intervention for Improving Psychological Well-Being in Patients With Advanced Cancer. Journal of Clinical Oncology. 2015;33(7):749–754. doi:10.1200/JCO.2014.57.2198.
+- Link: https://ascopubs.org/doi/10.1200/JCO.2014.57.2198
+- Study type, population, findings and limitations: Randomized trial of 253 people with advanced cancer comparing manualized meaning-centered group psychotherapy with supportive group psychotherapy. Some outcomes improved; anxiety did not differ between groups. Not general evidence for wellness or spiritual reflection.
+- Access/status check: Journal record and abstract accessible; no correction or retraction notice identified on 2026-11-13.
+- Cited by: Fear of death and the search for meaning
+
+## Centers for Disease Control and Prevention. Manage ME/CFS.
+- Link: https://www.cdc.gov/me-cfs/management/
+- Study type, population, findings and limitations: Current US public-health guidance, not a trial; describes delayed post-exertional malaise and individualized pacing within limits.
+- Access/status check: Full page accessible on 2026-11-13.
+- Cited by: Pacing with chronic fatigue
+
+## National Institute for Health and Care Excellence. ME/CFS: diagnosis and management. NICE guideline NG206. 2021.
+- Link: https://www.nice.org.uk/guidance/ng206
+- Study type, population, findings and limitations: Evidence-based clinical guideline; energy management is not curative, should be individualized and should not use fixed automatic increases.
+- Access/status check: Full recommendations accessible on 2026-11-13.
+- Cited by: Pacing with chronic fatigue
