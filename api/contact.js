@@ -51,12 +51,12 @@ module.exports = async function handler(req, res) {
     return res.status(200).json({ ok: true, redirect: data.redirect || "/thank-you.html" });
   }
 
-  const formType = data.form_type === "event_rsvp" ? "event_rsvp" : "private_inquiry";
+  const formType = data.form_type === "event_rsvp" ? "event_rsvp" : data.form_type === "group_inquiry" ? "group_inquiry" : "private_inquiry";
   const name = String(data.Name || "").trim();
   const email = String(data.email || "").trim();
   const phone = String(data.Phone || "").trim();
 
-  if (!name || (formType === "event_rsvp" && !email) || (formType === "private_inquiry" && !phone)) {
+  if (!name || (formType === "event_rsvp" && !email) || ((formType === "private_inquiry" || formType === "group_inquiry") && !phone)) {
     return res.status(400).json({ ok: false, message: "Please complete the required fields." });
   }
 
@@ -82,6 +82,8 @@ module.exports = async function handler(req, res) {
 
   const subject = formType === "event_rsvp"
     ? "Confirmed RSVP · Melt Into the Divine · October 26"
+    : formType === "group_inquiry"
+    ? "New Private Group Experience Inquiry · Aspen"
     : "New Private Healing Inquiry · Aspen";
 
   const excluded = new Set(["form_type", "event_id", "redirect", "website", "_honey"]);
@@ -108,6 +110,8 @@ module.exports = async function handler(req, res) {
           reply_to: OWNER_EMAIL,
           subject: formType === "event_rsvp"
             ? "Your RSVP is confirmed · Melt Into the Divine · October 26"
+            : formType === "group_inquiry"
+            ? "We received your private group experience inquiry"
             : "We received your Healing Rituals inquiry",
           html: formType === "event_rsvp"
             ? `<div style="font-family:Arial,sans-serif;color:#2d2025;max-width:620px"><h1 style="font-family:Georgia,serif;color:#6e1733">Your RSVP is confirmed</h1><p>Hi ${escapeHtml(name)},</p><p>You’re registered for <strong>Melt Into the Divine</strong>, a Sound &amp; Quantum Subconscious Journey with Lauren for Mindfulness Monday.</p><p><strong>Monday, October 26, 2026 · 6:30 PM Mountain Time</strong><br>The Grove · 315 E Hyman Ave, Aspen, CO<br>$35 per person<br>Number attending: ${escapeHtml(data["Number attending"])}</p><p>${data["Journey supports"] ? "Your request for a yoga mat, blanket and eye mask is included in your RSVP." : "Please bring a yoga mat, blanket and eye mask."}</p><p>Your reservation is complete. No additional confirmation is needed.</p><p>Come get comfortable, relax, replenish, and merge with the divine.</p><p><a href="https://www.healingritualsaspen.com/events.html#melt-into-the-divine">View event details</a> · <a href="https://www.healingritualsaspen.com/melt-into-the-divine.ics">Add to calendar</a></p><p>With care,<br>Healing Rituals · Aspen</p></div>`
