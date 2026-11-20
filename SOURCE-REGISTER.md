@@ -960,3 +960,81 @@ Checked: 2026-09-18
 - Study type, population, findings and limitations: Evidence-based clinical guideline; energy management is not curative, should be individualized and should not use fixed automatic increases.
 - Access/status check: Full recommendations accessible on 2026-11-13.
 - Cited by: Pacing with chronic fatigue
+
+
+# Sources rechecked for application and self-observation revisions — 2026-11-20
+
+## Gollwitzer PM, Sheeran P. Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes. Advances in Experimental Social Psychology. 2006;38:69–119. doi:10.1016/S0065-2601(06)38002-1.
+- Type/findings/limits: Meta-analysis of 94 independent tests across varied goal domains; supports if–then planning but not Healing Rituals’ branded process or treatment claims.
+- Access/status: Publisher record and manuscript accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: From intention to response
+
+## de Witte M, Spruit A, van Hooren S, Moonen X, Stams GJ. Effects of music interventions on stress-related outcomes. Health Psychology Review. 2020;14(2):294–324. doi:10.1080/17437199.2019.1627897.
+- Type/findings/limits: Systematic review and two meta-analyses of 104 randomized trials (9,617 participants); interventions, populations and outcomes were heterogeneous and do not establish a universal sound prescription.
+- Access/status: PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: The most supportive sound may be the one you are free to change
+
+## National Center for Complementary and Integrative Health. Reiki.
+- Type/findings/limits: US government evidence overview; Reiki is not clearly shown effective for health-related purposes, research is generally low quality and inconsistent, and the proposed energy field is not scientifically established.
+- Access/status: Full official page accessible 2026-11-20.
+- Cited by: How to speak about an energy-work experience
+
+## Qaseem A, Kansagara D, Forciea MA, et al. Management of Chronic Insomnia Disorder in Adults. Annals of Internal Medicine. 2016;165(2):125–133. doi:10.7326/M15-2175.
+- Type/findings/limits: Evidence-based ACP guideline for adults; recommends CBT-I as initial treatment and does not evaluate Guided Deep Rest.
+- Access/status: PubMed abstract and complete evidence record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Guided deep rest can support rest—but chronic insomnia deserves its own care
+
+## Balban MY, Neri E, Kogon MM, et al. Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine. 2023;4(1):100895. doi:10.1016/j.xcrm.2022.100895.
+- Type/findings/limits: Remote randomized study of defined daily five-minute practices over 28 days; short-term outcomes do not generalize to all breathwork, clinical populations or combined wellness services.
+- Access/status: Full text and PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: What the cyclic-sighing study can—and cannot—tell us
+
+## Muthukumaraswamy SD, Forsyth A, Lumley T. Blinding and expectancy confounds in psychedelic randomized controlled trials. Expert Review of Clinical Pharmacology. 2021;14(9):1133–1152. doi:10.1080/17512433.2021.1933434.
+- Type/findings/limits: Methods review and systematic review of psychedelic RCT reporting; argues de-blinding and expectancy may inflate effect estimates but does not quantify efficacy of a specific treatment.
+- Access/status: PubMed abstract and complete record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Why expectancy and blinding matter in psychedelic research
+
+## Orsini DK, Wong S, Di Luch S, et al. Blinding Integrity in Psychedelic Randomized Clinical Trials: A Systematic Review. JAMA Psychiatry. 2026;83(7):755–769. doi:10.1001/jamapsychiatry.2026.0255.
+- Type/findings/limits: Systematic review of 112 randomized psychiatric trials; only 29.5% assessed blinding integrity and functional unblinding was common. The methods review does not establish that all benefit is expectancy-driven.
+- Access/status: PubMed abstract accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Why expectancy and blinding matter in psychedelic research
+
+## Naidoo D, Schembri A, Cohen M. The health impact of residential retreats: a systematic review. BMC Complementary and Alternative Medicine. 2018;18:8. doi:10.1186/s12906-017-2078-4.
+- Type/findings/limits: Review of 23 heterogeneous retreat studies with small samples, limited follow-up and absent adverse-event reporting; cannot isolate components or prescribe recovery time.
+- Access/status: Full text accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Why spacious scheduling may be the most useful part of a private retreat
+
+## Gable SL, Reis HT, Impett EA, Asher ER. What do you do when things go right? Journal of Personality and Social Psychology. 2004;87(2):228–245. doi:10.1037/0022-3514.87.2.228.
+- Type/findings/limits: Four studies of sharing positive events; active-constructive responses were associated with individual and relationship well-being, not proof of a couples-treatment effect.
+- Access/status: PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: The relationship skill that begins when something goes right
+
+## Goyal M, Singh S, Sibinga EMS, et al. Meditation programs for psychological stress and well-being. JAMA Internal Medicine. 2014;174(3):357–368. doi:10.1001/jamainternmed.2013.13018.
+- Type/findings/limits: Systematic review of 47 active-control trials with 3,515 adults; found small-to-moderate changes in some outcomes and no evidence of superiority to active treatments. It did not evaluate Healing Rituals services.
+- Access/status: Full text and PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Meditation and depression
+
+## Hoge EA, Bui E, Mete M, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders. JAMA Psychiatry. 2023;80(1):13–21. doi:10.1001/jamapsychiatry.2022.3679.
+- Type/findings/limits: Randomized trial of a standardized eight-week program versus medication in adults with diagnosed anxiety disorders; not evidence for generic mindfulness or a wellness session.
+- Access/status: Full text and PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Anxiety practice works best when it is structured
+
+## Twohig-Bennett C, Jones A. The health benefits of the great outdoors. Environmental Research. 2018;166:628–637. doi:10.1016/j.envres.2018.06.030.
+- Type/findings/limits: Systematic review and meta-analysis of 103 observational and 40 interventional studies; many favorable associations, with poor quality and high heterogeneity limiting causal and dose conclusions.
+- Access/status: Full text and PubMed record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: A five-minute nature pause is not a cure for stress
+
+## Fehr R, Gelfand MJ, Nag M. The road to forgiveness. Psychological Bulletin. 2010;136(5):894–914. doi:10.1037/a0019993.
+- Type/findings/limits: Meta-analysis of 175 studies and 26,006 participants examining correlates of interpersonal forgiveness; associations do not make forgiveness or reconciliation obligatory.
+- Access/status: PubMed records a 2011 erratum; central article record remains active. Rechecked 2026-11-20.
+- Cited by: Apology and forgiveness are related—but they are not the same decision
+
+## Menzies RE, Zuccala M, Sharpe L, Dar-Nimrod I. The effects of psychosocial interventions on death anxiety. Journal of Anxiety Disorders. 2018;59:64–73. doi:10.1016/j.janxdis.2018.09.004.
+- Type/findings/limits: Systematic review and meta-analysis of 15 randomized trials; small evidence base, varied interventions and generally low study quality limit individual recommendations.
+- Access/status: PubMed abstract and complete record accessible; no correction or retraction notice identified 2026-11-20.
+- Cited by: Fear of death can be supported in more than one way
+
+## National Institute for Health and Care Excellence. ME/CFS: diagnosis and management. NICE guideline NG206. 2021.
+- Type/findings/limits: Evidence-based clinical guideline, not a trial; energy management is person-led and not curative, and fixed incremental increases are not recommended.
+- Access/status: Full official recommendations accessible 2026-11-20.
+- Cited by: Rest before the crash
